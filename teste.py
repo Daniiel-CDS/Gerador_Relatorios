@@ -1,20 +1,16 @@
-import chardet
-import os
+from databases.select import rel_select 
+import pandas as pd
+import pyodbc
+from databases.database import connection_string
 
-def detect_encoding(file_path):
-    with open(file_path, 'rb') as f:
-        raw_data = f.read()
-    result = chardet.detect(raw_data)
-    return result['encoding']
-
-project_path = '.'  # Caminho do seu projeto
-
-for root, dirs, files in os.walk(project_path):
-    for file in files:
-        file_path = os.path.join(root, file)
-        try:
-            encoding = detect_encoding(file_path)
-            if encoding != 'utf-8':
-                print(f'{file_path}: {encoding}')
-        except Exception as e:
-            print(f'Erro ao processar {file_path}: {e}')
+data_inicio ='2024-04-01 '
+data_termino = '2024-06-10'
+prazocompra = 0
+origem = '0'
+pedidoatendimento = '0'
+simulacao = 0
+empresaobra = '245|237OB'
+connection = pyodbc.connect(connection_string)
+df = pd.read_sql(rel_select(data_inicio=data_inicio, data_termino=data_termino, empresaobra=empresaobra, pedidoatendimento=pedidoatendimento, origem=origem, prazocompra=prazocompra, simulacao=simulacao), connection)
+df = df[['CodObra','Pedido','Cotação','UnidIns','Insumo', 'QtdeIns','Data do Pedido', 'Usr. Conf.', 'Excluído']]
+print(df.head())
