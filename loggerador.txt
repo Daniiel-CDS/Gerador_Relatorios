@@ -1,0 +1,1728 @@
+2024-06-10 13:18:50,853 - INFO - data inicial � :2024-06-05, e data final = 2024-06-10
+2024-06-10 13:18:50,863 - INFO - Conectando ao banco de dados...
+2024-06-10 13:18:50,978 - INFO - Conex�o estabelecida.
+2024-06-10 13:18:50,978 - INFO - Cursor criado.
+2024-06-10 13:18:50,980 - INFO - Executando a query SQL...
+2024-06-10 13:18:54,318 - INFO - Query executada com sucesso.
+2024-06-10 13:18:54,318 - INFO - Nenhum dado encontrado para o per�odo especificado.
+2024-06-10 13:18:54,352 - INFO - Conex�o fechada.
+2024-06-10 13:19:53,244 - INFO - data inicial é :2024-06-05, e data final = 2024-06-10
+2024-06-10 13:19:53,245 - INFO - Conectando ao banco de dados...
+2024-06-10 13:19:53,357 - INFO - Conexão estabelecida.
+2024-06-10 13:19:53,358 - INFO - Cursor criado.
+2024-06-10 13:19:53,358 - INFO - Executando a query SQL...
+2024-06-10 13:19:56,717 - INFO - Query executada com sucesso.
+2024-06-10 13:19:56,718 - INFO - Nenhum dado encontrado para o período especificado.
+2024-06-10 13:19:56,752 - INFO - Conexão fechada.
+2024-06-10 13:43:03,393 - INFO - data inicial é :2024-06-05, e data final = 2024-06-10
+2024-06-10 13:43:03,394 - INFO - Conectando ao banco de dados...
+2024-06-10 13:43:03,503 - INFO - Conexão estabelecida.
+2024-06-10 13:43:03,504 - INFO - Cursor criado.
+2024-06-10 13:43:03,504 - INFO - Executando a query SQL...
+2024-06-10 13:43:05,666 - INFO - Query executada com sucesso.
+2024-06-10 13:43:05,666 - INFO - Nenhum dado encontrado para o período especificado.
+2024-06-10 13:43:05,700 - INFO - Conexão fechada.
+2024-06-10 13:43:05,703 - INFO - data inicial é :2024-06-05, e data final = 2024-06-10
+2024-06-10 13:43:05,703 - INFO - Conectando ao banco de dados...
+2024-06-10 13:43:05,703 - INFO - Conexão estabelecida.
+2024-06-10 13:43:05,704 - INFO - Cursor criado.
+2024-06-10 13:43:05,704 - INFO - Executando a query SQL...
+2024-06-10 13:43:08,240 - INFO - Query executada com sucesso.
+2024-06-10 13:43:08,241 - INFO - Nenhum dado encontrado para o período especificado.
+2024-06-10 13:43:08,421 - INFO - Conexão fechada.
+2024-06-10 13:43:37,851 - INFO - data inicial é :2024-05-07, e data final = 2024-06-10
+2024-06-10 13:43:37,851 - INFO - Conectando ao banco de dados...
+2024-06-10 13:43:37,852 - INFO - Conexão estabelecida.
+2024-06-10 13:43:37,852 - INFO - Cursor criado.
+2024-06-10 13:43:37,852 - INFO - Executando a query SQL...
+2024-06-10 13:43:42,119 - INFO - Query executada com sucesso.
+2024-06-10 13:43:42,120 - INFO - Nenhum dado encontrado para o período especificado.
+2024-06-10 13:43:42,155 - INFO - Conexão fechada.
+2024-06-10 13:44:17,501 - INFO - data inicial é :2024-05-07, e data final = 2024-06-10
+2024-06-10 13:44:17,501 - INFO - Conectando ao banco de dados...
+2024-06-10 13:44:17,605 - INFO - Conexão estabelecida.
+2024-06-10 13:44:17,606 - INFO - Cursor criado.
+2024-06-10 13:44:17,606 - INFO - Executando a query SQL...
+2024-06-10 13:44:19,985 - INFO - Query executada com sucesso.
+2024-06-10 13:44:19,985 - INFO - Nenhum dado encontrado para o período especificado.
+2024-06-10 13:44:20,021 - INFO - Conexão fechada.
+2024-06-10 13:44:37,734 - INFO - data inicial é :2024-06-10, e data final = 2024-05-01
+2024-06-10 13:44:37,734 - INFO - Conectando ao banco de dados...
+2024-06-10 13:44:37,735 - INFO - Conexão estabelecida.
+2024-06-10 13:44:37,735 - INFO - Cursor criado.
+2024-06-10 13:44:37,736 - INFO - Executando a query SQL...
+2024-06-10 13:44:41,589 - INFO - Query executada com sucesso.
+2024-06-10 13:44:41,590 - INFO - Nenhum dado encontrado para o período especificado.
+2024-06-10 13:44:41,628 - INFO - Conexão fechada.
+2024-06-10 13:45:38,160 - INFO - data inicial é :2024-06-10, e data final = 2024-05-01
+2024-06-10 13:45:38,161 - INFO - Conectando ao banco de dados...
+2024-06-10 13:45:38,263 - INFO - Conexão estabelecida.
+2024-06-10 13:45:38,263 - INFO - Cursor criado.
+2024-06-10 13:45:38,264 - INFO - Executando a query SQL...
+2024-06-10 13:45:40,619 - INFO - Query executada com sucesso.
+2024-06-10 13:45:40,619 - INFO - Nenhum dado encontrado para o período especificado.
+2024-06-10 13:45:40,658 - INFO - Conexão fechada.
+2024-06-10 13:46:05,371 - INFO - data inicial é :2024-05-01, e data final = 2024-06-10
+2024-06-10 13:46:05,371 - INFO - Conectando ao banco de dados...
+2024-06-10 13:46:05,372 - INFO - Conexão estabelecida.
+2024-06-10 13:46:05,372 - INFO - Cursor criado.
+2024-06-10 13:46:05,372 - INFO - Executando a query SQL...
+2024-06-10 13:46:08,920 - INFO - Query executada com sucesso.
+2024-06-10 13:46:08,921 - INFO - Nenhum dado encontrado para o período especificado.
+2024-06-10 13:46:08,957 - INFO - Conexão fechada.
+2024-06-10 13:47:45,201 - INFO - data inicial é :2024-05-01, e data final = 2024-06-10
+2024-06-10 13:47:45,202 - INFO - Conectando ao banco de dados...
+2024-06-10 13:47:45,202 - INFO - Conexão estabelecida.
+2024-06-10 13:47:45,203 - INFO - Cursor criado.
+2024-06-10 13:47:45,203 - INFO - Executando a query SQL...
+2024-06-10 13:47:47,807 - INFO - Query executada com sucesso.
+2024-06-10 13:47:47,808 - INFO - Nenhum dado encontrado para o período especificado.
+2024-06-10 13:47:47,841 - INFO - Conexão fechada.
+2024-06-10 13:49:02,217 - INFO - data inicial é :2024-04-01, e data final = 2024-05-31
+2024-06-10 13:49:02,218 - INFO - Conectando ao banco de dados...
+2024-06-10 13:49:02,319 - INFO - Conexão estabelecida.
+2024-06-10 13:49:02,320 - INFO - Cursor criado.
+2024-06-10 13:49:02,320 - INFO - Executando a query SQL...
+2024-06-10 13:49:06,782 - INFO - Query executada com sucesso.
+2024-06-10 13:49:06,783 - INFO - Dados encontrados, exportando para Excel...
+2024-06-10 13:51:27,133 - INFO - data inicial é :2024-04-01, e data final = 2024-06-10
+2024-06-10 13:51:27,134 - INFO - Conectando ao banco de dados...
+2024-06-10 13:51:27,233 - INFO - Conexão estabelecida.
+2024-06-10 13:51:27,233 - INFO - Cursor criado.
+2024-06-10 13:51:27,234 - INFO - Executando a query SQL...
+2024-06-10 13:51:31,464 - INFO - Query executada com sucesso.
+2024-06-10 13:51:31,465 - INFO - Dados encontrados, exportando para Excel...
+2024-06-10 13:52:14,329 - INFO - data inicial é :2024-05-01, e data final = 2024-06-10
+2024-06-10 13:52:14,329 - INFO - Conectando ao banco de dados...
+2024-06-10 13:52:14,332 - INFO - Conexão estabelecida.
+2024-06-10 13:52:14,333 - INFO - Cursor criado.
+2024-06-10 13:52:14,333 - INFO - Executando a query SQL...
+2024-06-10 13:52:16,638 - INFO - Query executada com sucesso.
+2024-06-10 13:52:16,639 - INFO - Nenhum dado encontrado para o período especificado.
+2024-06-10 13:52:16,672 - INFO - Conexão fechada.
+2024-06-10 13:52:24,595 - INFO - data inicial é :2024-04-01, e data final = 2024-06-10
+2024-06-10 13:52:24,595 - INFO - Conectando ao banco de dados...
+2024-06-10 13:52:24,595 - INFO - Conexão estabelecida.
+2024-06-10 13:52:24,596 - INFO - Cursor criado.
+2024-06-10 13:52:24,596 - INFO - Executando a query SQL...
+2024-06-10 13:52:27,515 - INFO - Query executada com sucesso.
+2024-06-10 13:52:27,515 - INFO - Dados encontrados, exportando para Excel...
+2024-06-10 13:52:27,920 - INFO - Relatório exportado para relatorio_obraobra_237OB10-06-2024 13_52.xlsx
+2024-06-10 13:52:27,955 - INFO - Conexão fechada.
+2024-06-10 13:52:44,774 - INFO - data inicial é :2024-04-01, e data final = 2024-06-10
+2024-06-10 13:52:44,774 - INFO - Conectando ao banco de dados...
+2024-06-10 13:52:44,774 - INFO - Conexão estabelecida.
+2024-06-10 13:52:44,775 - INFO - Cursor criado.
+2024-06-10 13:52:44,775 - INFO - Executando a query SQL...
+2024-06-10 13:52:47,828 - INFO - Query executada com sucesso.
+2024-06-10 13:52:47,829 - INFO - Dados encontrados, exportando para Excel...
+2024-06-10 13:52:48,024 - INFO - Relatório exportado para relatorio_obraobra_237OB10-06-2024 13_52.xlsx
+2024-06-10 13:52:48,059 - INFO - Conexão fechada.
+2024-06-10 13:53:05,639 - INFO - data inicial é :2024-04-01, e data final = 2024-06-10
+2024-06-10 13:53:05,640 - INFO - Conectando ao banco de dados...
+2024-06-10 13:53:05,740 - INFO - Conexão estabelecida.
+2024-06-10 13:53:05,741 - INFO - Cursor criado.
+2024-06-10 13:53:05,741 - INFO - Executando a query SQL...
+2024-06-10 13:53:10,544 - INFO - Query executada com sucesso.
+2024-06-10 13:53:10,544 - INFO - Dados encontrados, exportando para Excel...
+2024-06-10 13:53:10,943 - INFO - Relatório exportado para relatorio_obra237OB10-06-2024 13_53.xlsx
+2024-06-10 13:53:10,979 - INFO - Conexão fechada.
+2024-06-10 13:53:28,197 - INFO - data inicial é :2024-04-01, e data final = 2024-06-10
+2024-06-10 13:53:28,197 - INFO - Conectando ao banco de dados...
+2024-06-10 13:53:28,198 - INFO - Conexão estabelecida.
+2024-06-10 13:53:28,198 - INFO - Cursor criado.
+2024-06-10 13:53:28,199 - INFO - Executando a query SQL...
+2024-06-10 13:53:31,080 - INFO - Query executada com sucesso.
+2024-06-10 13:53:31,080 - INFO - Dados encontrados, exportando para Excel...
+2024-06-10 13:53:31,288 - INFO - Relatório exportado para relatorio_obra237OB10-06-2024 13_53.xlsx
+2024-06-10 13:53:31,324 - INFO - Conexão fechada.
+2024-06-10 15:42:50,527 - INFO - data inicial é :2024-04-01, e data final = 2024-06-10
+2024-06-10 15:42:50,530 - INFO - Conectando ao banco de dados...
+2024-06-10 15:42:50,631 - INFO - Conexão estabelecida.
+2024-06-10 15:42:50,632 - INFO - Cursor criado.
+2024-06-10 15:42:50,632 - INFO - Executando a query SQL...
+2024-06-10 15:42:54,228 - INFO - Query executada com sucesso.
+2024-06-10 15:42:54,229 - INFO - Nenhum dado encontrado para o período especificado.
+2024-06-10 15:42:54,273 - INFO - Conexão fechada.
+2024-06-10 15:52:08,230 - INFO - data inicial é :2024-04-01, e data final = 2024-06-10
+2024-06-10 15:52:08,230 - INFO - Conectando ao banco de dados...
+2024-06-10 15:52:08,234 - INFO - Conexão estabelecida.
+2024-06-10 15:52:08,234 - INFO - Cursor criado.
+2024-06-10 15:52:08,234 - INFO - Executando a query SQL...
+2024-06-10 15:52:12,613 - INFO - Query executada com sucesso.
+2024-06-10 15:52:12,613 - INFO - Dados encontrados, exportando para Excel...
+2024-06-10 16:15:10,360 - INFO - data inicial é :2024-05-01, e data final = 2024-06-10
+2024-06-10 16:15:10,360 - INFO - Conectando ao banco de dados...
+2024-06-10 16:15:10,361 - INFO - Conexão estabelecida.
+2024-06-10 16:15:10,362 - INFO - Cursor criado.
+2024-06-10 16:15:10,362 - INFO - Executando a query SQL...
+2024-06-10 16:15:13,926 - INFO - Query executada com sucesso.
+2024-06-10 16:15:13,926 - INFO - Nenhum dado encontrado para o período especificado.
+2024-06-10 16:15:13,961 - INFO - Conexão fechada.
+2024-06-10 16:15:27,149 - INFO - data inicial é :2024-04-01, e data final = 2024-06-10
+2024-06-10 16:15:27,150 - INFO - Conectando ao banco de dados...
+2024-06-10 16:15:27,150 - INFO - Conexão estabelecida.
+2024-06-10 16:15:27,150 - INFO - Cursor criado.
+2024-06-10 16:15:27,150 - INFO - Executando a query SQL...
+2024-06-10 16:15:30,022 - INFO - Query executada com sucesso.
+2024-06-10 16:15:30,022 - INFO - Dados encontrados, exportando para Excel...
+2024-06-10 16:15:30,528 - INFO - Relatório exportado para relatorio_obra237OB-10-06-2024 16_15.xlsx
+2024-06-10 16:15:30,562 - INFO - Conexão fechada.
+2024-06-10 16:16:40,257 - INFO - data inicial é :2024-05-01, e data final = 2024-06-10
+2024-06-10 16:16:40,258 - INFO - Conectando ao banco de dados...
+2024-06-10 16:16:40,258 - INFO - Conexão estabelecida.
+2024-06-10 16:16:40,259 - INFO - Cursor criado.
+2024-06-10 16:16:40,259 - INFO - Executando a query SQL...
+2024-06-10 16:16:44,144 - INFO - Query executada com sucesso.
+2024-06-10 16:16:44,145 - INFO - Nenhum dado encontrado para o período especificado.
+2024-06-10 16:16:44,179 - INFO - Conexão fechada.
+2024-06-10 16:16:53,352 - INFO - data inicial é :2024-04-01, e data final = 2024-06-10
+2024-06-10 16:16:53,353 - INFO - Conectando ao banco de dados...
+2024-06-10 16:16:53,353 - INFO - Conexão estabelecida.
+2024-06-10 16:16:53,354 - INFO - Cursor criado.
+2024-06-10 16:16:53,354 - INFO - Executando a query SQL...
+2024-06-10 16:16:56,794 - INFO - Query executada com sucesso.
+2024-06-10 16:16:56,795 - INFO - Nenhum dado encontrado para o período especificado.
+2024-06-10 16:16:56,829 - INFO - Conexão fechada.
+2024-06-10 16:30:04,269 - INFO - data inicial é :2024-04-01, e data final = 2024-06-07
+2024-06-10 16:30:04,393 - INFO - Conectando ao banco de dados...
+2024-06-10 16:30:04,419 - INFO - Conexão estabelecida.
+2024-06-10 16:30:04,419 - INFO - Cursor criado.
+2024-06-10 16:30:04,420 - INFO - Executando a query SQL...
+2024-06-10 16:30:10,696 - INFO - Query executada com sucesso.
+2024-06-10 16:30:10,696 - INFO - Dados encontrados, exportando para Excel...
+2024-06-10 16:30:11,036 - INFO - Relatório exportado para relatorio_obra237OB-10-06-2024 16_30.xlsx
+2024-06-10 16:30:11,084 - INFO - Conexão fechada.
+2024-06-10 16:33:10,101 - INFO - data inicial é :2024-04-01, e data final = 2024-06-10
+2024-06-10 16:33:10,101 - INFO - Conectando ao banco de dados...
+2024-06-10 16:33:10,246 - INFO - Conexão estabelecida.
+2024-06-10 16:33:10,247 - INFO - Cursor criado.
+2024-06-10 16:33:10,247 - INFO - Executando a query SQL...
+2024-06-10 16:33:14,309 - INFO - Query executada com sucesso.
+2024-06-10 16:33:14,309 - INFO - Dados encontrados, exportando para Excel...
+2024-06-10 16:33:14,573 - INFO - Relatório exportado para relatorio_obra237OB-10-06-2024 16_33.xlsx
+2024-06-10 16:34:15,717 - INFO - data inicial é :2024-05-01, e data final = 2024-05-31
+2024-06-10 16:34:15,829 - INFO - Conectando ao banco de dados...
+2024-06-10 16:34:15,851 - INFO - Conexão estabelecida.
+2024-06-10 16:34:15,852 - INFO - Cursor criado.
+2024-06-10 16:34:15,852 - INFO - Executando a query SQL...
+2024-06-10 16:34:19,906 - INFO - Query executada com sucesso.
+2024-06-10 16:34:19,906 - INFO - Nenhum dado encontrado para o período especificado.
+2024-06-10 16:37:19,684 - INFO - data inicial é :2024-04-01, e data final = 2024-06-10
+2024-06-10 16:37:19,684 - INFO - Conectando ao banco de dados...
+2024-06-10 16:37:19,820 - INFO - Conexão estabelecida.
+2024-06-10 16:37:19,821 - INFO - Cursor criado.
+2024-06-10 16:37:19,822 - INFO - Executando a query SQL...
+2024-06-10 16:37:22,858 - INFO - Query executada com sucesso.
+2024-06-10 16:37:22,860 - INFO - Dados encontrados, exportando para Excel...
+2024-06-10 16:37:23,231 - INFO - Relatório exportado para relatorio_obra237OB-10-06-2024 16_37.xlsx
+2024-06-10 16:40:59,543 - INFO - data inicial é :2024-05-01, e data final = 2024-06-10
+2024-06-10 16:40:59,544 - INFO - Conectando ao banco de dados...
+2024-06-10 16:40:59,677 - INFO - Conexão estabelecida.
+2024-06-10 16:40:59,678 - INFO - Cursor criado.
+2024-06-10 16:40:59,678 - INFO - Executando a query SQL...
+2024-06-10 16:41:02,066 - INFO - Query executada com sucesso.
+2024-06-10 16:41:02,066 - INFO - Nenhum dado encontrado para o período especificado.
+2024-06-10 16:41:21,713 - INFO - data inicial é :2024-05-01, e data final = 2024-06-10
+2024-06-10 16:41:21,714 - INFO - Conectando ao banco de dados...
+2024-06-10 16:41:21,853 - INFO - Conexão estabelecida.
+2024-06-10 16:41:21,854 - INFO - Cursor criado.
+2024-06-10 16:41:21,855 - INFO - Executando a query SQL...
+2024-06-10 16:41:25,804 - INFO - Query executada com sucesso.
+2024-06-10 16:41:25,804 - INFO - Nenhum dado encontrado para o período especificado.
+2024-06-10 16:41:49,790 - INFO - data inicial é :2024-06-05, e data final = 2024-06-10
+2024-06-10 16:41:49,903 - INFO - Conectando ao banco de dados...
+2024-06-10 16:41:50,036 - INFO - Conexão estabelecida.
+2024-06-10 16:41:50,037 - INFO - Cursor criado.
+2024-06-10 16:41:50,037 - INFO - Executando a query SQL...
+2024-06-10 16:41:54,277 - INFO - Query executada com sucesso.
+2024-06-10 16:41:54,277 - INFO - Nenhum dado encontrado para o período especificado.
+2024-06-10 16:45:49,801 - INFO - data inicial é :2024-06-05, e data final = 2024-06-10
+2024-06-10 16:45:49,915 - INFO - Conectando ao banco de dados...
+2024-06-10 16:45:50,061 - INFO - Conexão estabelecida.
+2024-06-10 16:45:50,062 - INFO - Cursor criado.
+2024-06-10 16:45:50,063 - INFO - Executando a query SQL...
+2024-06-10 16:45:53,569 - INFO - Query executada com sucesso.
+2024-06-10 16:45:53,569 - INFO - Nenhum dado encontrado para o período especificado.
+2024-06-10 16:46:22,971 - INFO - data inicial é :2024-06-05, e data final = 2024-06-10
+2024-06-10 16:46:23,087 - INFO - Conectando ao banco de dados...
+2024-06-10 16:46:23,223 - INFO - Conexão estabelecida.
+2024-06-10 16:46:23,224 - INFO - Cursor criado.
+2024-06-10 16:46:23,224 - INFO - Executando a query SQL...
+2024-06-10 16:46:25,375 - INFO - Query executada com sucesso.
+2024-06-10 16:46:25,376 - INFO - Nenhum dado encontrado para o período especificado.
+2024-06-10 16:47:17,868 - INFO - data inicial é :2024-06-05, e data final = 2024-06-10
+2024-06-10 16:47:17,985 - INFO - Conectando ao banco de dados...
+2024-06-10 16:47:18,120 - INFO - Conexão estabelecida.
+2024-06-10 16:47:18,121 - INFO - Cursor criado.
+2024-06-10 16:47:18,121 - INFO - Executando a query SQL...
+2024-06-10 16:47:20,375 - INFO - Query executada com sucesso.
+2024-06-10 16:47:20,376 - INFO - Nenhum dado encontrado para o período especificado.
+2024-06-10 16:47:41,833 - INFO - data inicial é :2024-06-05, e data final = 2024-06-10
+2024-06-10 16:47:41,951 - INFO - Conectando ao banco de dados...
+2024-06-10 16:47:42,086 - INFO - Conexão estabelecida.
+2024-06-10 16:47:42,086 - INFO - Cursor criado.
+2024-06-10 16:47:42,086 - INFO - Executando a query SQL...
+2024-06-10 16:47:44,416 - INFO - Query executada com sucesso.
+2024-06-10 16:47:44,416 - INFO - Nenhum dado encontrado para o período especificado.
+2024-06-10 16:48:24,291 - INFO - data inicial é :2024-06-05, e data final = 2024-06-10
+2024-06-10 16:48:24,407 - INFO - Conectando ao banco de dados...
+2024-06-10 16:48:24,539 - INFO - Conexão estabelecida.
+2024-06-10 16:48:24,539 - INFO - Cursor criado.
+2024-06-10 16:48:24,540 - INFO - Executando a query SQL...
+2024-06-10 16:48:26,759 - INFO - Query executada com sucesso.
+2024-06-10 16:48:26,759 - INFO - Nenhum dado encontrado para o período especificado.
+2024-06-10 16:48:45,460 - INFO - data inicial é :2024-06-05, e data final = 2024-06-10
+2024-06-10 16:48:45,573 - INFO - Conectando ao banco de dados...
+2024-06-10 16:48:45,705 - INFO - Conexão estabelecida.
+2024-06-10 16:48:45,705 - INFO - Cursor criado.
+2024-06-10 16:48:45,706 - INFO - Executando a query SQL...
+2024-06-10 16:48:47,918 - INFO - Query executada com sucesso.
+2024-06-10 16:48:47,918 - INFO - Nenhum dado encontrado para o período especificado.
+2024-06-10 16:51:49,034 - INFO - data inicial é :2024-06-05, e data final = 2024-06-10
+2024-06-10 16:51:49,150 - INFO - Conectando ao banco de dados...
+2024-06-10 16:51:49,291 - INFO - Conexão estabelecida.
+2024-06-10 16:51:49,292 - INFO - Cursor criado.
+2024-06-10 16:51:49,292 - INFO - Executando a query SQL...
+2024-06-10 16:51:52,075 - INFO - Query executada com sucesso.
+2024-06-10 16:51:52,075 - INFO - Nenhum dado encontrado para o período especificado.
+2024-06-10 16:54:01,020 - INFO - data inicial é :2024-06-05, e data final = 2024-06-10
+2024-06-10 16:54:01,134 - INFO - Conectando ao banco de dados...
+2024-06-10 16:54:01,270 - INFO - Conexão estabelecida.
+2024-06-10 16:54:01,271 - INFO - Cursor criado.
+2024-06-10 16:54:01,272 - INFO - Executando a query SQL...
+2024-06-10 16:54:03,602 - INFO - Query executada com sucesso.
+2024-06-10 16:54:03,603 - INFO - Nenhum dado encontrado para o período especificado.
+2024-06-10 16:55:16,233 - INFO - data inicial é :2024-05-01, e data final = 2024-06-07
+2024-06-10 16:55:16,234 - INFO - Conectando ao banco de dados...
+2024-06-10 16:55:16,369 - INFO - Conexão estabelecida.
+2024-06-10 16:55:16,369 - INFO - Cursor criado.
+2024-06-10 16:55:16,369 - INFO - Executando a query SQL...
+2024-06-10 16:55:19,972 - INFO - Query executada com sucesso.
+2024-06-10 16:55:19,973 - INFO - Nenhum dado encontrado para o período especificado.
+2024-06-10 16:57:51,661 - INFO - data inicial é :2024-06-05, e data final = 2024-06-10
+2024-06-10 16:57:51,778 - INFO - Conectando ao banco de dados...
+2024-06-10 16:57:51,920 - INFO - Conexão estabelecida.
+2024-06-10 16:57:51,921 - INFO - Cursor criado.
+2024-06-10 16:57:51,922 - INFO - Executando a query SQL...
+2024-06-10 16:57:54,279 - INFO - Query executada com sucesso.
+2024-06-10 16:57:54,279 - INFO - Nenhum dado encontrado para o período especificado.
+2024-06-10 16:58:24,845 - INFO - data inicial é :2024-06-05, e data final = 2024-06-10
+2024-06-10 16:58:24,958 - INFO - Conectando ao banco de dados...
+2024-06-10 16:58:25,094 - INFO - Conexão estabelecida.
+2024-06-10 16:58:25,094 - INFO - Cursor criado.
+2024-06-10 16:58:25,094 - INFO - Executando a query SQL...
+2024-06-10 16:58:27,551 - INFO - Query executada com sucesso.
+2024-06-10 16:58:27,552 - INFO - Nenhum dado encontrado para o período especificado.
+2024-06-10 16:59:00,326 - INFO - data inicial é :2024-06-05, e data final = 2024-06-10
+2024-06-10 16:59:00,446 - INFO - Conectando ao banco de dados...
+2024-06-10 16:59:00,588 - INFO - Conexão estabelecida.
+2024-06-10 16:59:00,590 - INFO - Cursor criado.
+2024-06-10 16:59:00,590 - INFO - Executando a query SQL...
+2024-06-10 16:59:02,768 - INFO - Query executada com sucesso.
+2024-06-10 16:59:02,769 - INFO - Nenhum dado encontrado para o período especificado.
+2024-06-10 16:59:21,615 - INFO - data inicial é :2024-06-05, e data final = 2024-06-10
+2024-06-10 16:59:21,735 - INFO - Conectando ao banco de dados...
+2024-06-10 16:59:21,876 - INFO - Conexão estabelecida.
+2024-06-10 16:59:21,877 - INFO - Cursor criado.
+2024-06-10 16:59:21,878 - INFO - Executando a query SQL...
+2024-06-10 16:59:24,092 - INFO - Query executada com sucesso.
+2024-06-10 16:59:24,092 - INFO - Nenhum dado encontrado para o período especificado.
+2024-06-10 16:59:49,344 - INFO - data inicial é :2024-06-05, e data final = 2024-06-10
+2024-06-10 16:59:49,467 - INFO - Conectando ao banco de dados...
+2024-06-10 16:59:49,613 - INFO - Conexão estabelecida.
+2024-06-10 16:59:49,614 - INFO - Cursor criado.
+2024-06-10 16:59:49,615 - INFO - Executando a query SQL...
+2024-06-10 16:59:51,862 - INFO - Query executada com sucesso.
+2024-06-10 16:59:51,862 - INFO - Nenhum dado encontrado para o período especificado.
+2024-06-10 17:00:12,966 - INFO - data inicial é :2024-06-05, e data final = 2024-06-10
+2024-06-10 17:00:13,084 - INFO - Conectando ao banco de dados...
+2024-06-10 17:00:13,221 - INFO - Conexão estabelecida.
+2024-06-10 17:00:13,221 - INFO - Cursor criado.
+2024-06-10 17:00:13,222 - INFO - Executando a query SQL...
+2024-06-10 17:00:15,442 - INFO - Query executada com sucesso.
+2024-06-10 17:00:15,443 - INFO - Nenhum dado encontrado para o período especificado.
+2024-06-10 17:39:13,211 - INFO - data inicial é :2024-06-05, e data final = 2024-06-10
+2024-06-10 17:39:13,212 - INFO - Conectando ao banco de dados...
+2024-06-10 17:39:13,347 - INFO - Conexão estabelecida.
+2024-06-10 17:39:13,347 - INFO - Cursor criado.
+2024-06-10 17:39:13,348 - INFO - Executando a query SQL...
+2024-06-10 17:39:14,927 - INFO - Erro ao executar a query: Execution failed on sql '
+    SELECT Resulta.*, 
+        CAST('2024-06-05' AS DATETIME) [DataInicial], 
+        CAST('2024-06-10' AS DATETIME) [DataFinal], 
+        CAST(CodEmp AS VARCHAR) + ' - ' + UPPER(Desc_Emp) [Empresa], 
+        CodObra + ' - ' + UPPER(Descr_Obr) [Obra], 
+        UPPER(Nome_Pes) [Fornecedor],
+        COALESCE(PendenteEnt, PendEnt) AS PendDtEntrega
+    FROM 
+    ( 
+        SELECT *, 
+            CASE WHEN Cod_Ped IS NULL THEN 0 ELSE 1 END [PedidoAdiantamento] 
+        FROM 
+        ( 
+            SELECT CodEmp, CodObra, Pedido, Cotação, UnidIns, CodIns, 
+                UPPER(CodIns + ' - ' + Insumo) [Insumo], 
+                Qtde_Temp [QtdeIns], 
+                CAST([Data do Pedido] AS DATETIME) [Data do Pedido], 
+                [Usr. Conf.], 
+                CAST(DataCompra AS DATETIME) [DataCompra], 
+                [Usr. Compra], 
+                CAST(DataEntrega AS DATETIME) [DataEntrega], 
+                [Usr. Entrega], 
+                QtdeEntrega,
+                CAST(DataSegEntrega AS DATETIME) [DataSegEntrega], 
+                UsrSegEntrega, 
+                QtdeSegEntrega,
+                CAST(DataEntregaPed AS DATETIME) [DataEntregaPed], 
+                Tipo, 
+                Excluído, 
+                CAST(DataAprovSimulacao AS DATETIME) [DataAprovSimulacao], 
+                [Usr. Aprov.], 
+                CAST(DataSimulacaoObra AS DATETIME) [DataSimulacaoObra], 
+                [Usr. Sim. Obra], 
+                CAST(DataPedido AS DATETIME) [DataPedido], 
+                [Usr. Ped.], 
+                DATEDIFF(DAY, DataEntregaPed, DataEntrega) [Atraso], 
+                CASE WHEN [Data do Pedido] IS NULL AND Excluído = 'NÃO' THEN 1 ELSE 0 END [PendDtApPed],
+                CASE WHEN DataAprovSimulacao IS NULL AND [DataSimulacao] IS NOT NULL THEN 1 ELSE 0 END [PendSimulacao],
+                CASE WHEN DataSimulacaoObra IS NULL AND DataAprovSimulacao IS NOT NULL AND [Tab].TipoPedido NOT IN(2,11,12,13,15,16, 4)
+                    THEN 1 ELSE 0 END [PendSimulacaoObra],
+                CASE WHEN DataCompra IS NULL AND DataSimulacaoObra IS NOT NULL AND [Tab].Estagio_Ped = 4 THEN 1 ELSE 0 END [PendDtCompra],
+                CASE WHEN DataEntrega IS NULL AND DataCompra IS NOT NULL THEN 1 ELSE 0 END PendEnt, 
+                0 [TipoOrigem], 
+                'NO PERÍODO' [Origem], 
+                TipoPedido, 
+                0 [PrazoCompra], 
+                CASE WHEN DataCompra IS NULL THEN 0 ELSE 1 END [TemOC], 
+                CASE WHEN DATEDIFF(DAY, DataPedido, DataCompra) <= 0 THEN 1 ELSE 0 END [PedidoCompraPrazo], 
+                CASE WHEN DATEDIFF(DAY, DataPedido, DataCompra) > 0 THEN 1 ELSE 0 END [PedidoCompraForaPrazo], 
+                0 [PrazoSimulacao], 
+                CASE WHEN DATEDIFF(DAY, DataAprovSimulacao, DataCompra) <= 0 THEN 1 ELSE 0 END [SimulacaoCompraPrazo], 
+                CASE WHEN DATEDIFF(DAY, DataAprovSimulacao, DataCompra) > 0 THEN 1 ELSE 0 END [SimulacaoCompraForaPrazo], 
+                DATEDIFF(DAY, DataPedido, DataEntrega) [TempoTotal], 
+                CASE WHEN DATEDIFF(DAY, DataPedido, DataEntrega) <= 0 THEN 1 ELSE 0 END [EntregaPrazo], 
+                CASE WHEN DATEDIFF(DAY, DataPedido, DataEntrega) > 0 THEN 1 ELSE 0 END [EntregaForaPrazo],
+                CodForn_Ocp, 
+                DATEDIFF(DAY, DataPedido, DataCompra) [PedidoXCompra], 
+                DATEDIFF(DAY, DataPedido, DataEntrega) [PedidoXEntrega],
+                OC,
+                ISNULL(ValorOC, 0) [ValorOC], 
+                DtVencParc_Proc 
+            FROM 
+            (
+                SELECT Empresa_temp [CodEmp], Obra_temp [CodObra], NumPedido_temp [Pedido], Cotacao_temp [Cotação], 
+                    Insumo_temp [CodIns], Unid_temp [UnidIns], Descr_Ins [Insumo], QtdeCot_temp AS Qtde_Temp, 
+                    ISNULL(Aprovacao.DataConf_temp, ItensCot_Temp.DataConf_temp) [Data do Pedido], 
+                    ISNULL(Aprovacao.QuemConf_temp, ItensCot_Temp.QuemConf_temp) [Usr. Conf.],
+                    ISNULL(DataGer_Ocp, NULL) [DataCompra], ISNULL(Usuario_Ocp, NULL) [Usr. Compra], 
+                    ISNULL(DtAtividade_Hen, NULL) [DataEntrega], ISNULL(Usuario_Hen, NULL) [Usr. Entrega],
+                    ISNULL(Qtde_Hen,0) [QtdeEntrega], ISNULL(DtSegEnt, NULL) [DataSegEntrega], ISNULL(UsrSegEnt, NULL) [UsrSegEntrega],
+                    ISNULL(QtdeSegEnt,0) [QtdeSegEntrega], DtEntrega_temp [DataEntregaPed], 
+                    'MATERIAL' [Tipo], CASE Excluido_temp WHEN 0 THEN 'NÃO' ELSE 'SIM' END [Excluído], 
+                    ISNULL (DtPedido_Ped,NULL) [DataPedido], ISNULL (Quem_Ped, NULL) [Usr. Ped.], Tipo_Ped [TipoPedido], 
+                    CodForn_Ocp, OC, ValorOC, DtVencParc_Proc, Estagio_temp AS Estagio_Ped
+                FROM fn_ListEmpObr('ALT 65 - TAXA ADMINISTRAÇÃO TOCTAO SOLUÇÕES',',') 
+                    INNER JOIN ItensCot_Temp ON Empresa_temp = Empresa AND Obra_temp = Obra 
+                    LEFT JOIN ( 
+                        SELECT Empresa_ApPedM, Obra_ApPedM, Insumo_ApPedM, NumPedido_ApPedM, ItemPed_ApPedM, 
+                            MAX(DataAprov_ApPedM) [DataConf_temp], 
+                            ( 
+                                SELECT MAX(APM.UsrAprov_ApPedM) 
+                                FROM AprovacaoPedMat [APM] 
+                                WHERE APM.Empresa_ApPedM = APM1.Empresa_ApPedM 
+                                    AND APM.Obra_ApPedM = APM1.Obra_ApPedM 
+                                    AND APM.Insumo_ApPedM = APM1.Insumo_ApPedM 
+                                    AND APM.NumPedido_ApPedM = APM1.NumPedido_ApPedM 
+                                    AND APM.ItemPed_ApPedM = APM1.ItemPed_ApPedM 
+                                    AND APM.DataAprov_ApPedM = MAX(APM1.DataAprov_ApPedM) 
+                            ) [QuemConf_temp] 
+                        FROM AprovacaoPedMat [APM1] 
+                        GROUP BY Empresa_ApPedM, Obra_ApPedM, Insumo_ApPedM, NumPedido_ApPedM, ItemPed_ApPedM 
+                    ) [Aprovacao] ON Empresa_temp = Empresa_ApPedM AND Obra_temp = Obra_ApPedM AND Insumo_temp = Insumo_ApPedM 
+                        AND NumPedido_temp = NumPedido_ApPedM AND ItemPed_temp = ItemPed_ApPedM 
+                    LEFT JOIN ( 
+                        SELECT Empresa_Ocp [EmpresaOC], Obra_Ocp [ObraOC], NumCot_Ocp [CotacaoOC], CodInsumo_Ioc [InsumoOC], 
+                            MAX(NumeroOC_Ocp) [OC], MAX(DataGer_Ocp) [DataGer_Ocp], MAX(Usuario_Ocp) [Usuario_Ocp], 
+                            MAX(CodForn_Ocp) [CodForn_Ocp], SUM(Qtde_Ioc * Preco_Ioc) [ValorOC],
+                            (SELECT DISTINCT COALESCE(MAX(Parc_Proc.DtVencParc_Proc), MAX(DataProc_Pag)) AS DtVencParc_Proc
+                                FROM Dados_Proc
+                                    INNER JOIN Parc_Proc
+                                        ON Dados_Proc.Empresa_Proc = Parc_Proc.Empresa_Proc
+                                        AND Dados_Proc.Obra_Proc = Parc_Proc.Obra_Proc
+                                        AND Dados_Proc.Num_Proc = Parc_Proc.Num_Proc
+                                    LEFT JOIN ContasPagas
+                                        ON ContasPagas.Empresa_pag = Dados_Proc.Empresa_proc
+                                        AND ContasPagas.ObraProc_Pag = Dados_Proc.Obra_Proc
+                                        AND ContasPagas.OrdemCompra_Pag = Dados_Proc.OrdemCompra_Proc
+                                        AND ContasPagas.NumCot_Pag = Dados_Proc.NumCot_Proc
+                                WHERE Dados_Proc.Empresa_Proc = Empresa_Ocp
+                                    AND Dados_Proc.Obra_Proc = Obra_Ocp
+                                    AND Dados_Proc.NumCot_Proc = NumCot_Ocp
+                                    AND Dados_Proc.OrdemCompra_Proc = NumeroOC_Ocp
+                            ) AS DtVencParc_Proc
+                        FROM OrdemCompra
+                            INNER JOIN ItensOrdemCompra
+                                ON Empresa_Ocp = Empresa_Ioc
+                                AND Obra_Ocp = Obra_Ioc
+                                AND NumeroOC_Ocp = NumeroOC_Ioc
+                        WHERE ISNULL(NumCot_Ocp, 0) <> 0
+                        GROUP BY Empresa_Ocp, Obra_Ocp, NumCot_Ocp, CodInsumo_Ioc, NumeroOC_Ocp
+                    ) [OC] ON EmpresaOC = Empresa_temp AND ObraOC = Obra_temp AND InsumoOC = Insumo_temp AND CotacaoOC = ISNULL(Cotacao_temp, 0)
+                    LEFT JOIN (
+                        SELECT Empresa_Hen, Obra_Hen, NumOc_Hen, NumIns_Hen, DtAtividade_Hen, Usuario_Hen, Qtde_Hen - QtdeCancelada_Hen [Qtde_Hen]
+                        FROM HistoricoEntrega
+                        WHERE Entrega_Hen = 1
+                    ) AS HistoricoEntrega ON Empresa_Hen = Empresa_temp AND Obra_Hen = Obra_temp AND NumOc_Hen = OC AND NumIns_Hen = Insumo_temp
+                    LEFT JOIN (
+                        SELECT Empresa_Hen [EmpSegEnt], Obra_Hen [ObrSegEnt], NumOc_Hen [OcSegEnt], NumIns_Hen [InsSegEnt],
+                            DataEntrega_hdt [DtSegEnt], Usuario_Hen [UsrSegEnt], Qtde_Hen [QtdeSegEnt]
+                        FROM HistoricoEntrega
+                            INNER JOIN (
+                                SELECT Empresa_Hen [EmpUlt], Obra_Hen [ObrUlt], NumOc_Hen [OcUlt], NumIns_Hen [InsUlt], MAX(Entrega_hen) [UltEnt]
+                                FROM HistoricoEntrega
+                                GROUP BY Empresa_Hen, Obra_Hen, NumOc_Hen, NumIns_Hen
+                            ) AS UltEntrega ON Empresa_Hen = EmpUlt AND Obra_Hen = ObrUlt AND NumOc_Hen = OcUlt AND NumIns_Hen = InsUlt AND Entrega_hen = UltEnt
+                            INNER JOIN (
+                                SELECT Empresa_hdt AS EmpHdt, Obra_HDt AS ObraHdt, NumOC_HDt AS OcHdt, MAX(NumProc_Hdt) AS ProcHdt
+                                FROM HistoricoDtEntrega
+                                GROUP BY Empresa_hdt, Obra_HDt, NumOC_HDt
+                            ) AS UltDtEntrega ON Empresa_Hen = EmpHdt AND Obra_Hen = ObraHdt AND NumOc_Hen = OcHdt
+                            INNER JOIN HistoricoDtEntrega
+                                ON Empresa_hdt = EmpHdt AND Obra_HDt = ObraHdt AND NumOC_HDt = OcHdt AND NumProc_Hdt = ProcHdt
+                        WHERE Entrega_hen <> 1
+                    ) AS SegundaEntrega ON EmpSegEnt = Empresa_temp AND ObrSegEnt = Obra_temp AND OcSegEnt = OC AND InsSegEnt = Insumo_temp
+                    INNER JOIN InsumosGeral ON ItensCot_Temp.Insumo_temp = InsumosGeral.Cod_Ins
+                    LEFT JOIN Pedidos ON Empresa_Ped = Empresa_temp AND Obra_Ped = Obra_temp AND Cod_Ped = NumPedido_temp
+                WHERE ISNULL(ISNULL((CAST(CONVERT(VARCHAR,Aprovacao.DataConf_temp,111)AS DATETIME)), (CAST(CONVERT(VARCHAR,ItensCot_Temp.DataConf_temp,111)AS DATETIME))), (CAST(CONVERT(VARCHAR,DtPedido_ped,111)AS DATETIME))) BETWEEN '2024-06-05' AND '2024-06-10'
+            UNION
+            SELECT Empresa_ServTemp [CodEmp], Obra_ServTemp [CodObra], NumPedido_ServTemp [Pedido], Cotacao_ServTemp [Cotação],
+                Serv_ServTemp [CodIns], Unid_ServTemp [UnidIns], Descr_Comp [Insumo], QtdeCot_ServTemp,
+                ISNULL(Aprovacao.DataConf_ServTemp, ItensCotServ_Temp.DataConf_ServTemp) [Data do Pedido],
+                ISNULL(Aprovacao.QuemConf_ServTemp, ItensCotServ_Temp.QuemConf_ServTemp) [Usr. Conf.],
+                ISNULL((
+                    SELECT MIN(SimulacoesConf.Data_Smlc)
+                    FROM SimulacoesConf
+                    WHERE (SimulacoesConf.Empresa_Smlc = Empresa_ServTemp)
+                        AND (SimulacoesConf.NumCot_Smlc = Cotacao_ServTemp)
+                        AND (SimulacoesConf.ObraCot_Smlc = Obra_ServTemp)
+                ), NULL) [DataCompra],
+                ISNULL((
+                    SELECT MIN(SimulacoesConf.Usr_Smlc)
+                    FROM SimulacoesConf
+                    WHERE (SimulacoesConf.Empresa_Smlc = Empresa_ServTemp)
+                        AND (SimulacoesConf.NumCot_Smlc = Cotacao_ServTemp)
+                        AND (SimulacoesConf.ObraCot_Smlc = Obra_ServTemp)
+                ), NULL) [Usr. Compra],
+                ISNULL(DtCriacao_Med, NULL) [DataEntrega], ISNULL(Quem_Med, NULL) [Usr. Entrega], 0 [QtdeEntrega],
+                NULL [DataSegEntrega], NULL [UsrSegEntrega], 0 [QtdeSegEntrega], NULL AS [DataEntregaPed],
+                'SERVIÇO' [Tipo], CASE Excluido_ServTemp WHEN 0 THEN 'NÃO' ELSE 'SIM' END [Excluído],
+                ISNULL(DtPedido_Ped, NULL) [DataPedido], ISNULL(Quem_Ped, NULL) [Usr. Ped.], Tipo_Ped [TipoPedido],
+                (
+                    SELECT MIN(CodForn_ItCotServ)
+                    FROM ItensContratoCotServ
+                    WHERE Empresa_ItCotServ = Empresa_ServTemp
+                        AND Cotacao_ItCotServ = Cotacao_ServTemp
+                        AND Serv_ItCotServ = Serv_ServTemp
+                ) [CodForn],
+                '' [OC], 0 [ValorOC], NULL [DtVencParc_Proc], Estagio_ServTemp AS Estagio_Ped
+            FROM fn_ListEmpObr('ALT 65 - TAXA ADMINISTRAÇÃO TOCTAO SOLUÇÕES',',')
+                INNER JOIN ItensCotServ_Temp ON Empresa_ServTemp = Empresa AND Obra_ServTemp = Obra
+                LEFT JOIN (
+                    SELECT Empresa_ApPedS, Obra_ApPedS, Serv_ApPedS, NumPedido_ApPedS, MAX(DataAprov_ApPedS) [DataConf_ServTemp],
+                        (
+                            SELECT MAX(APM.UsrAprov_ApPedS)
+                            FROM AprovacaoPedServ [APM]
+                            WHERE APM.Empresa_ApPedS = APM1.Empresa_ApPedS
+                                AND APM.Obra_ApPedS = APM1.Obra_ApPedS
+                                AND APM.Serv_ApPedS = APM1.Serv_ApPedS
+                                AND APM.NumPedido_ApPedS = APM1.NumPedido_ApPedS
+                                AND APM.DataAprov_ApPedS = MAX(APM1.DataAprov_ApPedS)
+                        ) [QuemConf_ServTemp]
+                    FROM AprovacaoPedServ [APM1]
+                    GROUP BY Empresa_ApPedS, Obra_ApPedS, Serv_ApPedS, NumPedido_ApPedS
+                ) [Aprovacao] ON Empresa_ServTemp = Empresa_ApPedS AND Obra_ServTemp = Obra_ApPedS AND Serv_ServTemp = Serv_ApPedS AND NumPedido_ServTemp = NumPedido_ApPedS
+                INNER JOIN Composicoes ON ItensCotServ_Temp.Serv_ServTemp = Composicoes.Cod_Comp
+                LEFT JOIN Pedidos ON Empresa_Ped = Empresa_ServTemp AND Obra_Ped = Obra_ServTemp AND Cod_Ped = NumPedido_ServTemp
+                LEFT JOIN (
+                    SELECT Empresa_Itens, Cotacao_ItCotServ, Serv_Itens, MAX(DtCriacao_Med) [DtCriacao_Med], MAX(Quem_Med) [Quem_Med],
+                        SUM(Qtde_Item) AS QtdeMed, ItensContrato.Qtde_itens,
+                        (SELECT SUM(icst.QtdeCot_ServTemp)
+                        FROM ItensCotServ_temp AS icst
+                         WHERE icst.Empresa_ServTemp = Empresa_Itens 
+                           AND icst.Obra_ServTemp = Obra_SimcServ
+                           AND icst.Serv_ServTemp = Serv_Itens 
+                           AND icst.Cotacao_ServTemp = Cotacao_ItCotServ) AS QtdePed,
+                        Obra_SimcServ
+                    FROM ItensMedicao
+                        INNER JOIN Medicoes
+                            ON ItensMedicao.Empresa_Item = Medicoes.Empresa_Med
+                            AND ItensMedicao.Contrato_Item = Medicoes.Contrato_Med
+                            AND ItensMedicao.CodMed_Item = Medicoes.Cod_Med
+                        INNER JOIN ItensContrato
+                            ON ItensMedicao.Empresa_Item = ItensContrato.Empresa_Itens
+                            AND ItensMedicao.Contrato_Item = ItensContrato.Contrato_Itens
+                            AND ItensMedicao.Ins_Item = ItensContrato.Serv_Itens
+                            AND ItensMedicao.ItensCont_Item = ItensContrato.Item_itens
+                        INNER JOIN Contratos
+                            ON Contratos.Empresa_cont = ItensContrato.Empresa_Itens
+                            AND Contratos.Cod_cont = ItensContrato.Contrato_Itens
+                        INNER JOIN ItensContratoCotServ
+                            ON Empresa_Itens = Empresa_ItCotServ
+                            AND Contrato_Itens = Contrato_ItCotServ
+                            AND Item_Itens = Item_ItCotServ
+                        INNER JOIN ItensSimuladosConfServ
+                            ON ItensSimuladosConfServ.Empresa_SimcServ = ItensContrato.Empresa_Itens
+                            AND ItensSimuladosConfServ.Cotacao_SimcServ = ItensContratoCotServ.Cotacao_ItCotServ
+                            AND ItensSimuladosConfServ.CodForn_SimcServ = ItensContratoCotServ.CodForn_ItCotServ
+                            AND ItensSimuladosConfServ.Serv_SimcServ = ItensContrato.Serv_Itens
+                            AND ItensSimuladosConfServ.Obra_SimcServ = Contratos.Obra_cont
+                    GROUP BY Empresa_Itens, Cotacao_ItCotServ, Serv_Itens, Qtde_itens, Obra_SimcServ
+                ) AS Med ON Empresa_Itens = Empresa_ServTemp AND Cotacao_ItCotServ = Cotacao_ServTemp AND Serv_Itens = Serv_ServTemp
+                AND Med.Obra_SimcServ = Obra_ServTemp AND (Med.QtdeMed = Qtde_itens OR Med.QtdeMed >= QtdePed)
+            WHERE ISNULL(ISNULL((CAST(CONVERT(VARCHAR, Aprovacao.DataConf_ServTemp, 111) AS DATETIME)), 
+                    (CAST(CONVERT(VARCHAR, ItensCotServ_Temp.DataConf_ServTemp, 111) AS DATETIME))), 
+                    (CAST(CONVERT(VARCHAR, DtPedido_ped, 111) AS DATETIME))) BETWEEN '2024-06-05' AND '2024-06-10'
+        ) [Tab]
+        LEFT JOIN (
+            SELECT Empresa_Smlc, NumCot_Smlc, MIN(Data_Smlc) [DataAprovSimulacao], MIN(Usr_Smlc) [Usr. Aprov.]
+            FROM SimulacoesConf
+            GROUP BY Empresa_Smlc, NumCot_Smlc
+        ) [SimulacoesConf1] ON CodEmp = SimulacoesConf1.Empresa_Smlc AND Cotação = SimulacoesConf1.NumCot_Smlc
+        LEFT JOIN (
+            SELECT Empresa_Smlc, NumCot_Smlc, ObraCot_Smlc, MIN(DataConf_Smlc) [DataSimulacaoObra], MIN(UsrConf_Smlc) [Usr. Sim. Obra]
+            FROM SimulacoesConf
+            GROUP BY Empresa_Smlc, NumCot_Smlc, ObraCot_Smlc
+        ) [SimulacoesConf2] ON CodEmp = SimulacoesConf2.Empresa_Smlc AND Cotação = SimulacoesConf2.NumCot_Smlc AND CodObra = SimulacoesConf2.ObraCot_Smlc
+        LEFT JOIN (
+            SELECT Empresa_Sml, NumCot_Sml, MIN(Simulacoes.Data_Sml) [DataSimulacao]
+            FROM Simulacoes
+            GROUP BY Empresa_Sml, NumCot_Sml
+        ) [Simulacoes] ON CodEmp = Simulacoes.Empresa_Sml AND Cotação = Simulacoes.NumCot_Sml
+        WHERE [TipoPedido] <> 8
+
+        UNION
+
+        SELECT CodEmp, CodObra, Pedido, Cotação, UnidIns, CodIns, UPPER(CodIns + ' - ' + Insumo) [Insumo],
+            Qtde_Temp [QtdeIns], CAST([Data do Pedido] AS DATETIME) [Data do Pedido], [Usr. Conf.],
+            CAST(DataCompra AS DATETIME) [DataCompra], [Usr. Compra], CAST(DataEntrega AS DATETIME) [DataEntrega],
+            [Usr. Entrega], QtdeEntrega, CAST(DataSegEntrega AS DATETIME) [DataSegEntrega], UsrSegEntrega,
+            QtdeSegEntrega, CAST(DataEntregaPed AS DATETIME) [DataEntregaPed], Tipo, Excluído,
+            CAST(DataAprovSimulacao AS DATETIME) [DataAprovSimulacao], [Usr. Aprov.], CAST(DataSimulacaoObra AS DATETIME) [DataSimulacaoObra],
+            [Usr. Sim. Obra], CAST(DataPedido AS DATETIME) [DataPedido], [Usr. Ped.], DATEDIFF(DAY, DataEntregaPed, DataEntrega) [Atraso],
+            CASE WHEN [Data do Pedido] IS NULL AND Excluído = 'NÃO' THEN 1 ELSE 0 END [PendDtApPed],
+            CASE WHEN DataAprovSimulacao IS NULL AND [DataSimulacao] IS NOT NULL THEN 1 ELSE 0 END [PendSimulacao],
+            CASE WHEN DataSimulacaoObra IS NULL AND DataAprovSimulacao IS NOT NULL AND [Tab].TipoPedido NOT IN (2,4) THEN 1 ELSE 0 END [PendSimulacaoObra],
+            CASE WHEN DataCompra IS NULL AND DataSimulacaoObra IS NOT NULL AND [Tab].Estagio_Ped = 4 THEN 1 ELSE 0 END [PendDtCompra],
+            CASE WHEN DataEntrega IS NULL AND DataCompra IS NOT NULL THEN 1 ELSE 0 END PendEnt, 1 [TipoOrigem],
+            'ANTERIOR AO PERÍODO' [Origem], TipoPedido, 0 [PrazoCompra], CASE WHEN DataCompra IS NULL THEN 0 ELSE 1 END [TemOC],
+            CASE WHEN DATEDIFF(DAY, DataPedido, DataCompra) <= 0 THEN 1 ELSE 0 END [PedidoCompraPrazo],
+            CASE WHEN DATEDIFF(DAY, DataPedido, DataCompra) > 0 THEN 1 ELSE 0 END [PedidoCompraForaPrazo], 0 [PrazoSimulacao],
+            CASE WHEN DATEDIFF(DAY, DataAprovSimulacao, DataCompra) <= 0 THEN 1 ELSE 0 END [SimulacaoCompraPrazo],
+            CASE WHEN DATEDIFF(DAY, DataAprovSimulacao, DataCompra) > 0 THEN 1 ELSE 0 END [SimulacaoCompraForaPrazo],
+            DATEDIFF(DAY, DataPedido, DataEntrega) [TempoTotal], CASE WHEN DATEDIFF(DAY, DataPedido, DataEntrega) <= 0 THEN 1 ELSE 0 END [EntregaPrazo],
+            CASE WHEN DATEDIFF(DAY, DataPedido, DataEntrega) > 0 THEN 1 ELSE 0 END [EntregaForaPrazo], CodForn_Ocp,
+            DATEDIFF(DAY, DataPedido, DataCompra) [PedidoXCompra], DATEDIFF(DAY, DataPedido, DataEntrega) [PedidoXEntrega], OC, ISNULL(ValorOC, 0) [ValorOC], DtVencParc_Proc
+        FROM
+        (
+            SELECT Empresa_temp [CodEmp], Obra_temp [CodObra], NumPedido_temp [Pedido], Cotacao_temp [Cotação], Insumo_temp [CodIns],
+                Unid_temp [UnidIns], Descr_Ins [Insumo], QtdeCot_temp AS Qtde_Temp, ISNULL(Aprovacao.DataConf_temp, ItensCot_Temp.DataConf_temp) [Data do Pedido],
+                ISNULL(Aprovacao.QuemConf_temp, ItensCot_Temp.QuemConf_temp) [Usr. Conf.], ISNULL(DataGer_Ocp, NULL) [DataCompra], ISNULL(Usuario_Ocp, NULL) [Usr. Compra],
+                ISNULL(DtAtividade_Hen, NULL) [DataEntrega], ISNULL(Usuario_Hen, NULL) [Usr. Entrega], ISNULL(Qtde_Hen, 0) [QtdeEntrega], ISNULL(DtSegEnt, NULL) [DataSegEntrega],
+                ISNULL(UsrSegEnt, NULL) [UsrSegEntrega], ISNULL(QtdeSegEnt, 0) [QtdeSegEntrega], DtEntrega_temp [DataEntregaPed], 'MATERIAL' [Tipo],
+                CASE Excluido_temp WHEN 0 THEN 'NÃO' ELSE 'SIM' END [Excluído], 
+                ISNULL(DtPedido_Ped, NULL) [DataPedido], ISNULL(Quem_Ped, NULL) [Usr. Ped.], Tipo_Ped [TipoPedido], 
+                CodForn_Ocp, OC, ValorOC, DtVencParc_Proc, Estagio_temp AS Estagio_Ped
+            FROM fn_ListEmpObr('ALT 65 - TAXA ADMINISTRAÇÃO TOCTAO SOLUÇÕES', ',') 
+            INNER JOIN ItensCot_Temp ON Empresa_temp = Empresa AND Obra_temp = Obra
+            LEFT JOIN ( 
+                SELECT Empresa_ApPedM, Obra_ApPedM, Insumo_ApPedM, NumPedido_ApPedM, ItemPed_ApPedM, 
+                    MAX(DataAprov_ApPedM) [DataConf_temp], 
+                    ( 
+                        SELECT MAX(APM.UsrAprov_ApPedM) 
+                        FROM AprovacaoPedMat [APM] 
+                        WHERE APM.Empresa_ApPedM = APM1.Empresa_ApPedM 
+                            AND APM.Obra_ApPedM = APM1.Obra_ApPedM 
+                            AND APM.Insumo_ApPedM = APM1.Insumo_ApPedM 
+                            AND APM.NumPedido_ApPedM = APM1.NumPedido_ApPedM 
+                            AND APM.ItemPed_ApPedM = APM1.ItemPed_ApPedM 
+                            AND APM.DataAprov_ApPedM = MAX(APM1.DataAprov_ApPedM) 
+                    ) [QuemConf_temp] 
+                FROM AprovacaoPedMat [APM1] 
+                GROUP BY Empresa_ApPedM, Obra_ApPedM, Insumo_ApPedM, NumPedido_ApPedM, ItemPed_ApPedM 
+            ) [Aprovacao] ON Empresa_temp = Empresa_ApPedM AND Obra_temp = Obra_ApPedM AND Insumo_temp = Insumo_ApPedM 
+                AND NumPedido_temp = NumPedido_ApPedM AND ItemPed_temp = ItemPed_ApPedM 
+            LEFT JOIN ( 
+                SELECT Empresa_Ocp [EmpresaOC], Obra_Ocp [ObraOC], NumCot_Ocp [CotacaoOC], CodInsumo_Ioc [InsumoOC], 
+                    MAX(NumeroOC_Ocp) [OC], MAX(DataGer_Ocp) [DataGer_Ocp], MAX(Usuario_Ocp) [Usuario_Ocp], 
+                    MAX(CodForn_Ocp) [CodForn_Ocp], SUM(Qtde_Ioc * Preco_Ioc) [ValorOC],
+                    (
+                        SELECT DISTINCT COALESCE(MAX(Parc_Proc.DtVencParc_Proc), MAX(DataProc_Pag)) AS DtVencParc_Proc
+                        FROM Dados_Proc
+                        INNER JOIN Parc_Proc ON Dados_Proc.Empresa_Proc = Parc_Proc.Empresa_Proc
+                            AND Dados_Proc.Obra_Proc = Parc_Proc.Obra_Proc
+                            AND Dados_Proc.Num_Proc = Parc_Proc.Num_Proc
+                        LEFT JOIN ContasPagas ON ContasPagas.Empresa_pag = Dados_Proc.Empresa_proc
+                            AND ContasPagas.ObraProc_Pag = Dados_Proc.Obra_Proc
+                            AND ContasPagas.OrdemCompra_Pag = Dados_Proc.OrdemCompra_Proc
+                            AND ContasPagas.NumCot_Pag = Dados_Proc.NumCot_Proc
+                        WHERE Dados_Proc.Empresa_Proc = Empresa_Ocp
+                            AND Dados_Proc.Obra_Proc = Obra_Ocp
+                            AND Dados_Proc.NumCot_Proc = NumCot_Ocp
+                            AND Dados_Proc.OrdemCompra_Proc = NumeroOC_Ocp
+                    ) AS DtVencParc_Proc
+                FROM OrdemCompra
+                INNER JOIN ItensOrdemCompra ON Empresa_Ocp = Empresa_Ioc
+                    AND Obra_Ocp = Obra_Ioc
+                    AND NumeroOC_Ocp = NumeroOC_Ioc
+                WHERE ISNULL(NumCot_Ocp, 0) <> 0
+                GROUP BY Empresa_Ocp, Obra_Ocp, NumCot_Ocp, CodInsumo_Ioc, NumeroOC_Ocp
+            ) [OC] ON EmpresaOC = Empresa_temp AND ObraOC = Obra_temp AND InsumoOC = Insumo_temp AND CotacaoOC = ISNULL(Cotacao_temp, 0)
+            LEFT JOIN (
+                SELECT Empresa_Hen, Obra_Hen, NumOc_Hen, NumIns_Hen, DtAtividade_Hen, Usuario_Hen, Qtde_Hen - QtdeCancelada_Hen [Qtde_Hen]
+                FROM HistoricoEntrega
+                WHERE Entrega_Hen = 1
+            ) AS HistoricoEntrega ON Empresa_Hen = Empresa_temp AND Obra_Hen = Obra_temp AND NumOc_Hen = OC AND NumIns_Hen = Insumo_temp
+            LEFT JOIN (
+                SELECT Empresa_Hen [EmpSegEnt], Obra_Hen [ObrSegEnt], NumOc_Hen [OcSegEnt], NumIns_Hen [InsSegEnt],
+                    DataEntrega_hdt [DtSegEnt], Usuario_Hen [UsrSegEnt], Qtde_Hen [QtdeSegEnt]
+                FROM HistoricoEntrega
+                INNER JOIN (
+                    SELECT Empresa_Hen [EmpUlt], Obra_Hen [ObrUlt], NumOc_Hen [OcUlt], NumIns_Hen [InsUlt], MAX(Entrega_hen) [UltEnt]
+                    FROM HistoricoEntrega
+                    GROUP BY Empresa_Hen, Obra_Hen, NumOc_Hen, NumIns_Hen
+                ) AS UltEntrega ON Empresa_Hen = EmpUlt AND Obra_Hen = ObrUlt AND NumOc_Hen = OcUlt AND NumIns_Hen = InsUlt AND Entrega_hen = UltEnt
+                INNER JOIN (
+                    SELECT Empresa_hdt AS EmpHdt, Obra_HDt AS ObraHdt, NumOC_HDt AS OcHdt, MAX(NumProc_Hdt) AS ProcHdt
+                    FROM HistoricoDtEntrega
+                    GROUP BY Empresa_hdt, Obra_HDt, NumOC_HDt
+                ) AS UltDtEntrega ON Empresa_Hen = EmpHdt AND Obra_Hen = ObraHdt AND NumOc_Hen = OcHdt
+                INNER JOIN HistoricoDtEntrega ON Empresa_hdt = EmpHdt AND Obra_HDt = ObraHdt AND NumOC_HDt = OcHdt AND NumProc_Hdt = ProcHdt
+                WHERE Entrega_hen <> 1
+            ) AS SegundaEntrega ON EmpSegEnt = Empresa_temp AND ObrSegEnt = Obra_temp AND OcSegEnt = OC AND InsSegEnt = Insumo_temp
+            INNER JOIN InsumosGeral ON ItensCot_Temp.Insumo_temp = InsumosGeral.Cod_Ins
+            LEFT JOIN Pedidos ON Empresa_Ped = Empresa_temp AND Obra_Ped = Obra_temp AND Cod_Ped = NumPedido_temp
+            WHERE ISNULL(ISNULL((CAST(CONVERT(VARCHAR, Aprovacao.DataConf_temp, 111) AS DATETIME)), 
+                (CAST(CONVERT(VARCHAR, ItensCot_Temp.DataConf_temp, 111) AS DATETIME))), 
+                (CAST(CONVERT(VARCHAR, DtPedido_ped, 111) AS DATETIME))) < '2024-06-05'
+            
+            UNION
+            
+            SELECT Empresa_ServTemp [CodEmp], Obra_ServTemp [CodObra], NumPedido_ServTemp [Pedido], Cotacao_ServTemp [Cotação],
+                Serv_ServTemp [CodIns], Unid_ServTemp [UnidIns], Descr_Comp [Insumo], QtdeCot_ServTemp,
+                ISNULL(Aprovacao.DataConf_ServTemp, ItensCotServ_Temp.DataConf_ServTemp) [Data do Pedido],
+                ISNULL(Aprovacao.QuemConf_ServTemp, ItensCotServ_Temp.QuemConf_ServTemp) [Usr. Conf.],
+                ISNULL((
+                    SELECT MIN(SimulacoesConf.Data_Smlc)
+                    FROM SimulacoesConf
+                    WHERE (SimulacoesConf.Empresa_Smlc = Empresa_ServTemp)
+                        AND (SimulacoesConf.NumCot_Smlc = Cotacao_ServTemp)
+                        AND (SimulacoesConf.ObraCot_Smlc = Obra_ServTemp)
+                ), NULL) [DataCompra],
+                ISNULL((
+                    SELECT MIN(SimulacoesConf.Usr_Smlc)
+                    FROM SimulacoesConf
+                    WHERE (SimulacoesConf.Empresa_Smlc = Empresa_ServTemp)
+                        AND (SimulacoesConf.NumCot_Smlc = Cotacao_ServTemp)
+                        AND (SimulacoesConf.ObraCot_Smlc = Obra_ServTemp)
+                ), NULL) [Usr. Compra],
+                ISNULL(DtCriacao_Med, NULL) [DataEntrega], ISNULL(Quem_Med, NULL) [Usr. Entrega], 0 [QtdeEntrega],
+                NULL [DataSegEntrega], NULL [UsrSegEntrega], 0 [QtdeSegEntrega], NULL AS [DataEntregaPed],
+                'SERVIÇO' [Tipo], CASE Excluido_ServTemp WHEN 0 THEN 'NÃO' ELSE 'SIM' END [Excluído],
+                ISNULL(DtPedido_Ped, NULL) [DataPedido], ISNULL(Quem_Ped, NULL) [Usr. Ped.], Tipo_Ped [TipoPedido], 
+                (
+                    SELECT MIN(CodForn_ItCotServ)
+                    FROM ItensContratoCotServ
+                    WHERE Empresa_ItCotServ = Empresa_ServTemp
+                        AND Cotacao_ItCotServ = Cotacao_ServTemp
+                        AND Serv_ItCotServ = Serv_ServTemp
+                ) [CodForn],
+                '' [OC], 0 [ValorOC], NULL [DtVencParc_Proc], Estagio_ServTemp AS Estagio_Ped
+            FROM fn_ListEmpObr('ALT 65 - TAXA ADMINISTRAÇÃO TOCTAO SOLUÇÕES', ',')
+            INNER JOIN ItensCotServ_Temp ON Empresa_ServTemp = Empresa AND Obra_ServTemp = Obra
+            LEFT JOIN (
+                SELECT Empresa_ApPedS, Obra_ApPedS, Serv_ApPedS, NumPedido_ApPedS, MAX(DataAprov_ApPedS) [DataConf_ServTemp],
+                    (
+                        SELECT MAX(APM.UsrAprov_ApPedS)
+                        FROM AprovacaoPedServ [APM]
+                        WHERE APM.Empresa_ApPedS = APM1.Empresa_ApPedS
+                            AND APM.Obra_ApPedS = APM1.Obra_ApPedS
+                            AND APM.Serv_ApPedS = APM1.Serv_ApPedS
+                            AND APM.NumPedido_ApPedS = APM1.NumPedido_ApPedS
+                            AND APM.DataAprov_ApPedS = MAX(APM1.DataAprov_ApPedS)
+                    ) [QuemConf_ServTemp]
+                FROM AprovacaoPedServ [APM1]
+                GROUP BY Empresa_ApPedS, Obra_ApPedS, Serv_ApPedS, NumPedido_ApPedS
+            ) [Aprovacao] ON Empresa_ServTemp = Empresa_ApPedS AND Obra_ServTemp = Obra_ApPedS AND Serv_ServTemp = Serv_ApPedS AND NumPedido_ServTemp = NumPedido_ApPedS
+            INNER JOIN Composicoes ON ItensCotServ_Temp.Serv_ServTemp = Composicoes.Cod_Comp
+            LEFT JOIN Pedidos ON Empresa_Ped = Empresa_ServTemp AND Obra_Ped = Obra_ServTemp AND Cod_Ped = NumPedido_ServTemp
+            LEFT JOIN (
+                SELECT Empresa_Itens, Cotacao_ItCotServ, Serv_Itens, MAX(DtCriacao_Med) [DtCriacao_Med], MAX(Quem_Med) [Quem_Med],
+                    SUM(Qtde_Item) AS QtdeMed, ItensContrato.Qtde_itens,
+                    (SELECT SUM(icst.QtdeCot_ServTemp)
+                     FROM ItensCotServ_temp AS icst
+                     WHERE icst.Empresa_ServTemp = Empresa_Itens 
+                       AND icst.Obra_ServTemp = Obra_SimcServ
+                       AND icst.Serv_ServTemp = Serv_Itens 
+                       AND icst.Cotacao_ServTemp = Cotacao_ItCotServ) AS QtdePed,
+                    Obra_SimcServ
+                FROM ItensMedicao
+                    INNER JOIN Medicoes
+                        ON ItensMedicao.Empresa_Item = Medicoes.Empresa_Med
+                        AND ItensMedicao.Contrato_Item = Medicoes.Contrato_Med
+                        AND ItensMedicao.CodMed_Item = Medicoes.Cod_Med
+                    INNER JOIN ItensContrato
+                        ON ItensMedicao.Empresa_Item = ItensContrato.Empresa_Itens
+                        AND ItensMedicao.Contrato_Item = ItensContrato.Contrato_Itens
+                        AND ItensMedicao.Ins_Item = ItensContrato.Serv_Itens
+                        AND ItensMedicao.ItensCont_Item = ItensContrato.Item_itens
+                    INNER JOIN Contratos
+                        ON Contratos.Empresa_cont = ItensContrato.Empresa_Itens
+                        AND Contratos.Cod_cont = ItensContrato.Contrato_Itens
+                    INNER JOIN ItensContratoCotServ
+                        ON Empresa_Itens = Empresa_ItCotServ
+                        AND Contrato_Itens = Contrato_ItCotServ
+                        AND Item_Itens = Item_ItCotServ
+                    INNER JOIN ItensSimuladosConfServ
+                        ON ItensSimuladosConfServ.Empresa_SimcServ = ItensContrato.Empresa_Itens
+                        AND ItensSimuladosConfServ.Cotacao_SimcServ = ItensContratoCotServ.Cotacao_ItCotServ
+                        AND ItensSimuladosConfServ.CodForn_SimcServ = ItensContratoCotServ.CodForn_ItCotServ
+                        AND ItensSimuladosConfServ.Serv_SimcServ = ItensContrato.Serv_Itens
+                        AND ItensSimuladosConfServ.Obra_SimcServ = Contratos.Obra_cont
+                GROUP BY Empresa_Itens, Cotacao_ItCotServ, Serv_Itens, Qtde_itens, Obra_SimcServ
+            ) AS Med ON Empresa_Itens = Empresa_ServTemp AND Cotacao_ItCotServ = Cotacao_ServTemp AND Serv_Itens = Serv_ServTemp
+            AND Med.Obra_SimcServ = Obra_ServTemp AND (Med.QtdeMed = Qtde_itens OR Med.QtdeMed >= QtdePed)
+            WHERE ISNULL(ISNULL((CAST(CONVERT(VARCHAR, Aprovacao.DataConf_ServTemp, 111) AS DATETIME)), 
+                (CAST(CONVERT(VARCHAR, ItensCotServ_Temp.DataConf_ServTemp, 111) AS DATETIME))), 
+                (CAST(CONVERT(VARCHAR, DtPedido_ped, 111) AS DATETIME))) < '2024-06-05'
+        ) [Tab]
+        LEFT JOIN (
+            SELECT Empresa_Smlc, NumCot_Smlc, MIN(Data_Smlc) [DataAprovSimulacao], MIN(Usr_Smlc) [Usr. Aprov.]
+            FROM SimulacoesConf
+            GROUP BY Empresa_Smlc, NumCot_Smlc
+        ) [SimulacoesConf1] ON CodEmp = SimulacoesConf1.Empresa_Smlc AND Cotação = SimulacoesConf1.NumCot_Smlc
+        LEFT JOIN (
+            SELECT Empresa_Smlc, NumCot_Smlc, ObraCot_Smlc, MIN(DataConf_Smlc) [DataSimulacaoObra], MIN(UsrConf_Smlc) [Usr. Sim. Obra]
+            FROM SimulacoesConf
+            GROUP BY Empresa_Smlc, NumCot_Smlc, ObraCot_Smlc
+        ) [SimulacoesConf2] ON CodEmp = SimulacoesConf2.Empresa_Smlc AND Cotação = SimulacoesConf2.NumCot_Smlc AND CodObra = SimulacoesConf2.ObraCot_Smlc
+        LEFT JOIN (
+            SELECT Empresa_Sml, NumCot_Sml, MIN(Simulacoes.Data_Sml) [DataSimulacao]
+            FROM Simulacoes
+            GROUP BY Empresa_Sml, NumCot_Sml
+        ) [Simulacoes] ON CodEmp = Simulacoes.Empresa_Sml AND Cotação = Simulacoes.NumCot_Sml
+        WHERE ([Data do Pedido] IS NULL 
+            OR DataAprovSimulacao IS NULL 
+            OR DataSimulacaoObra IS NULL 
+            OR DataCompra IS NULL 
+            OR DataEntrega IS NULL) 
+            AND [TipoPedido] <> 8
+    ) [Tabela]
+    LEFT JOIN (
+        SELECT Empresa_Ped, Obra_Ped, Cod_Ped
+        FROM ItensCot_Temp
+        INNER JOIN Pedidos ON Empresa_temp = Empresa_Ped AND Obra_temp = Obra_Ped AND NumPedido_temp = Cod_Ped
+        INNER JOIN AdiantamentoContrato ON Empresa_temp = Empresa_AdCont AND Obra_temp = Obra_AdCont AND Cotacao_temp = NumCot_AdCont
+        GROUP BY Empresa_Ped, Obra_Ped, Cod_Ped
+    ) [PedidosAdiantamento] ON CodEmp = Empresa_Ped AND CodObra = Obra_Ped AND Pedido = Cod_Ped
+) [Resulta]
+INNER JOIN Empresas ON CodEmp = Codigo_Emp
+INNER JOIN Obras ON CodEmp = Empresa_Obr AND CodObra = Cod_Obr
+LEFT JOIN Pessoas ON CodForn_Ocp = Cod_Pes
+LEFT JOIN (
+    SELECT
+        CASE WHEN Qtde_Ioc + QtdeAMais_Ioc - ISNULL(QtdeDescartada, 0) - ISNULL(Qtde_Ent, 0) > 0 THEN 1 ELSE 0 END [PendenteEnt],
+        Empresa_Ioc, Obra_Ioc, CodInsumo_Ioc, NumeroOC_Ioc, Cotacao_Ioc
+    FROM fn_ListEmpObr('ALT 65 - TAXA ADMINISTRAÇÃO TOCTAO SOLUÇÕES', ',')
+    INNER JOIN ItensOrdemCompra ON Empresa = ItensOrdemCompra.Empresa_Ioc AND obra = ItensOrdemCompra.Obra_Ioc
+    LEFT JOIN (
+        SELECT Empresa_Ioc [Empresa_Descartada], Obra_Ioc [Obra_Descartada], NumeroOC_Ioc [NumeroOC_Descartada], CodInsumo_Ioc [CodInsumo_Descartada],
+            (Qtde_Ioc + ISNULL(QtdeAMais_Ioc, 0)) - ISNULL(Qtde_Ent, 0) [QtdeDescartada]
+            FROM fn_ListEmpObr('ALT 65 - TAXA ADMINISTRAÇÃO TOCTAO SOLUÇÕES', ',')
+        INNER JOIN ItensOrdemCompra ON Empresa = Empresa_Ioc AND Obra = Obra_Ioc
+        LEFT JOIN (
+            SELECT Empresa_Ent, Obra_Ent, NumOC_Ent, Ins_Ent, SUM(Qtde_Ent) [Qtde_Ent]
+            FROM (
+                SELECT Empresa_Ent, Obra_Ent, NumOC_Ent, Ins_Ent, Qtde_Ent
+                FROM fn_ListEmpObr('ALT 65 - TAXA ADMINISTRAÇÃO TOCTAO SOLUÇÕES', ',')
+                INNER JOIN Entrada ON Empresa = Empresa_Ent AND Obra = Obra_Ent
+                UNION ALL
+                SELECT Empresa_Est, Obra_Est, NumOC_Est, Ins_Est, Qtde_Est
+                FROM fn_ListEmpObr('ALT 65 - TAXA ADMINISTRAÇÃO TOCTAO SOLUÇÕES', ',')
+                INNER JOIN FEstoque ON Empresa = Empresa_Est AND Obra = Obra_Est
+                WHERE Status_Est = 1
+            ) [Qtde]
+            GROUP BY Empresa_Ent, Obra_Ent, NumOC_Ent, Ins_Ent
+        ) [Qtde] ON Empresa_Ioc = Empresa_Ent AND Obra_Ioc = Obra_Ent AND NumeroOC_Ioc = NumOC_Ent AND CodInsumo_Ioc = Ins_Ent
+        WHERE (Qtde_Ioc + ISNULL(QtdeAMais_Ioc, 0)) - ISNULL(Qtde_Ent, 0) > 0
+    ) [Descartadas] ON Empresa_Ioc = Empresa_Descartada AND Obra_Ioc = Obra_Descartada AND NumeroOC_Ioc = NumeroOC_Descartada AND CodInsumo_Ioc = CodInsumo_Descartada
+    LEFT JOIN (
+        SELECT Empresa_Ent, Obra_Ent, NumOC_Ent, Ins_Ent, SUM(Qtde_Ent) [Qtde_Ent]
+        FROM fn_ListEmpObr('ALT 65 - TAXA ADMINISTRAÇÃO TOCTAO SOLUÇÕES', ',')
+        INNER JOIN Entrada ON Empresa = Empresa_Ent AND Obra = Obra_Ent
+        GROUP BY Empresa_Ent, Obra_Ent, NumOC_Ent, Ins_Ent
+    ) [Entrega] ON Empresa_Ioc = Empresa_Ent AND Obra_Ioc = Obra_Ent AND NumeroOC_Ioc = NumOC_Ent AND CodInsumo_Ioc = Ins_Ent
+) AS EntregasPendentes ON Resulta.CodEmp = EntregasPendentes.Empresa_Ioc AND Resulta.CodObra = EntregasPendentes.Obra_Ioc AND Resulta.Cotação = EntregasPendentes.Cotacao_Ioc AND Resulta.OC = EntregasPendentes.NumeroOC_Ioc AND Resulta.CodIns = EntregasPendentes.CodInsumo_Ioc
+
+WHERE TipoOrigem IN (0)
+    AND CASE 0 WHEN 0 THEN 1 WHEN 1 THEN -1 END NOT IN (PedidoAdiantamento)
+ORDER BY CodEmp, CodObra, TipoOrigem, Pedido;
+': ('42000', '[42000] [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid length parameter passed to the LEFT or SUBSTRING function. (537) (SQLExecDirectW); [42000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+2024-06-10 17:39:24,533 - INFO - data inicial é :2024-04-01, e data final = 2024-06-10
+2024-06-10 17:39:24,647 - INFO - Conectando ao banco de dados...
+2024-06-10 17:39:24,780 - INFO - Conexão estabelecida.
+2024-06-10 17:39:24,781 - INFO - Cursor criado.
+2024-06-10 17:39:24,781 - INFO - Executando a query SQL...
+2024-06-10 17:39:26,807 - INFO - Erro ao executar a query: Execution failed on sql '
+    SELECT Resulta.*, 
+        CAST('2024-04-01' AS DATETIME) [DataInicial], 
+        CAST('2024-06-10' AS DATETIME) [DataFinal], 
+        CAST(CodEmp AS VARCHAR) + ' - ' + UPPER(Desc_Emp) [Empresa], 
+        CodObra + ' - ' + UPPER(Descr_Obr) [Obra], 
+        UPPER(Nome_Pes) [Fornecedor],
+        COALESCE(PendenteEnt, PendEnt) AS PendDtEntrega
+    FROM 
+    ( 
+        SELECT *, 
+            CASE WHEN Cod_Ped IS NULL THEN 0 ELSE 1 END [PedidoAdiantamento] 
+        FROM 
+        ( 
+            SELECT CodEmp, CodObra, Pedido, Cotação, UnidIns, CodIns, 
+                UPPER(CodIns + ' - ' + Insumo) [Insumo], 
+                Qtde_Temp [QtdeIns], 
+                CAST([Data do Pedido] AS DATETIME) [Data do Pedido], 
+                [Usr. Conf.], 
+                CAST(DataCompra AS DATETIME) [DataCompra], 
+                [Usr. Compra], 
+                CAST(DataEntrega AS DATETIME) [DataEntrega], 
+                [Usr. Entrega], 
+                QtdeEntrega,
+                CAST(DataSegEntrega AS DATETIME) [DataSegEntrega], 
+                UsrSegEntrega, 
+                QtdeSegEntrega,
+                CAST(DataEntregaPed AS DATETIME) [DataEntregaPed], 
+                Tipo, 
+                Excluído, 
+                CAST(DataAprovSimulacao AS DATETIME) [DataAprovSimulacao], 
+                [Usr. Aprov.], 
+                CAST(DataSimulacaoObra AS DATETIME) [DataSimulacaoObra], 
+                [Usr. Sim. Obra], 
+                CAST(DataPedido AS DATETIME) [DataPedido], 
+                [Usr. Ped.], 
+                DATEDIFF(DAY, DataEntregaPed, DataEntrega) [Atraso], 
+                CASE WHEN [Data do Pedido] IS NULL AND Excluído = 'NÃO' THEN 1 ELSE 0 END [PendDtApPed],
+                CASE WHEN DataAprovSimulacao IS NULL AND [DataSimulacao] IS NOT NULL THEN 1 ELSE 0 END [PendSimulacao],
+                CASE WHEN DataSimulacaoObra IS NULL AND DataAprovSimulacao IS NOT NULL AND [Tab].TipoPedido NOT IN(2,11,12,13,15,16, 4)
+                    THEN 1 ELSE 0 END [PendSimulacaoObra],
+                CASE WHEN DataCompra IS NULL AND DataSimulacaoObra IS NOT NULL AND [Tab].Estagio_Ped = 4 THEN 1 ELSE 0 END [PendDtCompra],
+                CASE WHEN DataEntrega IS NULL AND DataCompra IS NOT NULL THEN 1 ELSE 0 END PendEnt, 
+                0 [TipoOrigem], 
+                'NO PERÍODO' [Origem], 
+                TipoPedido, 
+                0 [PrazoCompra], 
+                CASE WHEN DataCompra IS NULL THEN 0 ELSE 1 END [TemOC], 
+                CASE WHEN DATEDIFF(DAY, DataPedido, DataCompra) <= 0 THEN 1 ELSE 0 END [PedidoCompraPrazo], 
+                CASE WHEN DATEDIFF(DAY, DataPedido, DataCompra) > 0 THEN 1 ELSE 0 END [PedidoCompraForaPrazo], 
+                0 [PrazoSimulacao], 
+                CASE WHEN DATEDIFF(DAY, DataAprovSimulacao, DataCompra) <= 0 THEN 1 ELSE 0 END [SimulacaoCompraPrazo], 
+                CASE WHEN DATEDIFF(DAY, DataAprovSimulacao, DataCompra) > 0 THEN 1 ELSE 0 END [SimulacaoCompraForaPrazo], 
+                DATEDIFF(DAY, DataPedido, DataEntrega) [TempoTotal], 
+                CASE WHEN DATEDIFF(DAY, DataPedido, DataEntrega) <= 0 THEN 1 ELSE 0 END [EntregaPrazo], 
+                CASE WHEN DATEDIFF(DAY, DataPedido, DataEntrega) > 0 THEN 1 ELSE 0 END [EntregaForaPrazo],
+                CodForn_Ocp, 
+                DATEDIFF(DAY, DataPedido, DataCompra) [PedidoXCompra], 
+                DATEDIFF(DAY, DataPedido, DataEntrega) [PedidoXEntrega],
+                OC,
+                ISNULL(ValorOC, 0) [ValorOC], 
+                DtVencParc_Proc 
+            FROM 
+            (
+                SELECT Empresa_temp [CodEmp], Obra_temp [CodObra], NumPedido_temp [Pedido], Cotacao_temp [Cotação], 
+                    Insumo_temp [CodIns], Unid_temp [UnidIns], Descr_Ins [Insumo], QtdeCot_temp AS Qtde_Temp, 
+                    ISNULL(Aprovacao.DataConf_temp, ItensCot_Temp.DataConf_temp) [Data do Pedido], 
+                    ISNULL(Aprovacao.QuemConf_temp, ItensCot_Temp.QuemConf_temp) [Usr. Conf.],
+                    ISNULL(DataGer_Ocp, NULL) [DataCompra], ISNULL(Usuario_Ocp, NULL) [Usr. Compra], 
+                    ISNULL(DtAtividade_Hen, NULL) [DataEntrega], ISNULL(Usuario_Hen, NULL) [Usr. Entrega],
+                    ISNULL(Qtde_Hen,0) [QtdeEntrega], ISNULL(DtSegEnt, NULL) [DataSegEntrega], ISNULL(UsrSegEnt, NULL) [UsrSegEntrega],
+                    ISNULL(QtdeSegEnt,0) [QtdeSegEntrega], DtEntrega_temp [DataEntregaPed], 
+                    'MATERIAL' [Tipo], CASE Excluido_temp WHEN 0 THEN 'NÃO' ELSE 'SIM' END [Excluído], 
+                    ISNULL (DtPedido_Ped,NULL) [DataPedido], ISNULL (Quem_Ped, NULL) [Usr. Ped.], Tipo_Ped [TipoPedido], 
+                    CodForn_Ocp, OC, ValorOC, DtVencParc_Proc, Estagio_temp AS Estagio_Ped
+                FROM fn_ListEmpObr('ALT 65 - TAXA ADMINISTRAÇÃO TOCTAO SOLUÇÕES',',') 
+                    INNER JOIN ItensCot_Temp ON Empresa_temp = Empresa AND Obra_temp = Obra 
+                    LEFT JOIN ( 
+                        SELECT Empresa_ApPedM, Obra_ApPedM, Insumo_ApPedM, NumPedido_ApPedM, ItemPed_ApPedM, 
+                            MAX(DataAprov_ApPedM) [DataConf_temp], 
+                            ( 
+                                SELECT MAX(APM.UsrAprov_ApPedM) 
+                                FROM AprovacaoPedMat [APM] 
+                                WHERE APM.Empresa_ApPedM = APM1.Empresa_ApPedM 
+                                    AND APM.Obra_ApPedM = APM1.Obra_ApPedM 
+                                    AND APM.Insumo_ApPedM = APM1.Insumo_ApPedM 
+                                    AND APM.NumPedido_ApPedM = APM1.NumPedido_ApPedM 
+                                    AND APM.ItemPed_ApPedM = APM1.ItemPed_ApPedM 
+                                    AND APM.DataAprov_ApPedM = MAX(APM1.DataAprov_ApPedM) 
+                            ) [QuemConf_temp] 
+                        FROM AprovacaoPedMat [APM1] 
+                        GROUP BY Empresa_ApPedM, Obra_ApPedM, Insumo_ApPedM, NumPedido_ApPedM, ItemPed_ApPedM 
+                    ) [Aprovacao] ON Empresa_temp = Empresa_ApPedM AND Obra_temp = Obra_ApPedM AND Insumo_temp = Insumo_ApPedM 
+                        AND NumPedido_temp = NumPedido_ApPedM AND ItemPed_temp = ItemPed_ApPedM 
+                    LEFT JOIN ( 
+                        SELECT Empresa_Ocp [EmpresaOC], Obra_Ocp [ObraOC], NumCot_Ocp [CotacaoOC], CodInsumo_Ioc [InsumoOC], 
+                            MAX(NumeroOC_Ocp) [OC], MAX(DataGer_Ocp) [DataGer_Ocp], MAX(Usuario_Ocp) [Usuario_Ocp], 
+                            MAX(CodForn_Ocp) [CodForn_Ocp], SUM(Qtde_Ioc * Preco_Ioc) [ValorOC],
+                            (SELECT DISTINCT COALESCE(MAX(Parc_Proc.DtVencParc_Proc), MAX(DataProc_Pag)) AS DtVencParc_Proc
+                                FROM Dados_Proc
+                                    INNER JOIN Parc_Proc
+                                        ON Dados_Proc.Empresa_Proc = Parc_Proc.Empresa_Proc
+                                        AND Dados_Proc.Obra_Proc = Parc_Proc.Obra_Proc
+                                        AND Dados_Proc.Num_Proc = Parc_Proc.Num_Proc
+                                    LEFT JOIN ContasPagas
+                                        ON ContasPagas.Empresa_pag = Dados_Proc.Empresa_proc
+                                        AND ContasPagas.ObraProc_Pag = Dados_Proc.Obra_Proc
+                                        AND ContasPagas.OrdemCompra_Pag = Dados_Proc.OrdemCompra_Proc
+                                        AND ContasPagas.NumCot_Pag = Dados_Proc.NumCot_Proc
+                                WHERE Dados_Proc.Empresa_Proc = Empresa_Ocp
+                                    AND Dados_Proc.Obra_Proc = Obra_Ocp
+                                    AND Dados_Proc.NumCot_Proc = NumCot_Ocp
+                                    AND Dados_Proc.OrdemCompra_Proc = NumeroOC_Ocp
+                            ) AS DtVencParc_Proc
+                        FROM OrdemCompra
+                            INNER JOIN ItensOrdemCompra
+                                ON Empresa_Ocp = Empresa_Ioc
+                                AND Obra_Ocp = Obra_Ioc
+                                AND NumeroOC_Ocp = NumeroOC_Ioc
+                        WHERE ISNULL(NumCot_Ocp, 0) <> 0
+                        GROUP BY Empresa_Ocp, Obra_Ocp, NumCot_Ocp, CodInsumo_Ioc, NumeroOC_Ocp
+                    ) [OC] ON EmpresaOC = Empresa_temp AND ObraOC = Obra_temp AND InsumoOC = Insumo_temp AND CotacaoOC = ISNULL(Cotacao_temp, 0)
+                    LEFT JOIN (
+                        SELECT Empresa_Hen, Obra_Hen, NumOc_Hen, NumIns_Hen, DtAtividade_Hen, Usuario_Hen, Qtde_Hen - QtdeCancelada_Hen [Qtde_Hen]
+                        FROM HistoricoEntrega
+                        WHERE Entrega_Hen = 1
+                    ) AS HistoricoEntrega ON Empresa_Hen = Empresa_temp AND Obra_Hen = Obra_temp AND NumOc_Hen = OC AND NumIns_Hen = Insumo_temp
+                    LEFT JOIN (
+                        SELECT Empresa_Hen [EmpSegEnt], Obra_Hen [ObrSegEnt], NumOc_Hen [OcSegEnt], NumIns_Hen [InsSegEnt],
+                            DataEntrega_hdt [DtSegEnt], Usuario_Hen [UsrSegEnt], Qtde_Hen [QtdeSegEnt]
+                        FROM HistoricoEntrega
+                            INNER JOIN (
+                                SELECT Empresa_Hen [EmpUlt], Obra_Hen [ObrUlt], NumOc_Hen [OcUlt], NumIns_Hen [InsUlt], MAX(Entrega_hen) [UltEnt]
+                                FROM HistoricoEntrega
+                                GROUP BY Empresa_Hen, Obra_Hen, NumOc_Hen, NumIns_Hen
+                            ) AS UltEntrega ON Empresa_Hen = EmpUlt AND Obra_Hen = ObrUlt AND NumOc_Hen = OcUlt AND NumIns_Hen = InsUlt AND Entrega_hen = UltEnt
+                            INNER JOIN (
+                                SELECT Empresa_hdt AS EmpHdt, Obra_HDt AS ObraHdt, NumOC_HDt AS OcHdt, MAX(NumProc_Hdt) AS ProcHdt
+                                FROM HistoricoDtEntrega
+                                GROUP BY Empresa_hdt, Obra_HDt, NumOC_HDt
+                            ) AS UltDtEntrega ON Empresa_Hen = EmpHdt AND Obra_Hen = ObraHdt AND NumOc_Hen = OcHdt
+                            INNER JOIN HistoricoDtEntrega
+                                ON Empresa_hdt = EmpHdt AND Obra_HDt = ObraHdt AND NumOC_HDt = OcHdt AND NumProc_Hdt = ProcHdt
+                        WHERE Entrega_hen <> 1
+                    ) AS SegundaEntrega ON EmpSegEnt = Empresa_temp AND ObrSegEnt = Obra_temp AND OcSegEnt = OC AND InsSegEnt = Insumo_temp
+                    INNER JOIN InsumosGeral ON ItensCot_Temp.Insumo_temp = InsumosGeral.Cod_Ins
+                    LEFT JOIN Pedidos ON Empresa_Ped = Empresa_temp AND Obra_Ped = Obra_temp AND Cod_Ped = NumPedido_temp
+                WHERE ISNULL(ISNULL((CAST(CONVERT(VARCHAR,Aprovacao.DataConf_temp,111)AS DATETIME)), (CAST(CONVERT(VARCHAR,ItensCot_Temp.DataConf_temp,111)AS DATETIME))), (CAST(CONVERT(VARCHAR,DtPedido_ped,111)AS DATETIME))) BETWEEN '2024-04-01' AND '2024-06-10'
+            UNION
+            SELECT Empresa_ServTemp [CodEmp], Obra_ServTemp [CodObra], NumPedido_ServTemp [Pedido], Cotacao_ServTemp [Cotação],
+                Serv_ServTemp [CodIns], Unid_ServTemp [UnidIns], Descr_Comp [Insumo], QtdeCot_ServTemp,
+                ISNULL(Aprovacao.DataConf_ServTemp, ItensCotServ_Temp.DataConf_ServTemp) [Data do Pedido],
+                ISNULL(Aprovacao.QuemConf_ServTemp, ItensCotServ_Temp.QuemConf_ServTemp) [Usr. Conf.],
+                ISNULL((
+                    SELECT MIN(SimulacoesConf.Data_Smlc)
+                    FROM SimulacoesConf
+                    WHERE (SimulacoesConf.Empresa_Smlc = Empresa_ServTemp)
+                        AND (SimulacoesConf.NumCot_Smlc = Cotacao_ServTemp)
+                        AND (SimulacoesConf.ObraCot_Smlc = Obra_ServTemp)
+                ), NULL) [DataCompra],
+                ISNULL((
+                    SELECT MIN(SimulacoesConf.Usr_Smlc)
+                    FROM SimulacoesConf
+                    WHERE (SimulacoesConf.Empresa_Smlc = Empresa_ServTemp)
+                        AND (SimulacoesConf.NumCot_Smlc = Cotacao_ServTemp)
+                        AND (SimulacoesConf.ObraCot_Smlc = Obra_ServTemp)
+                ), NULL) [Usr. Compra],
+                ISNULL(DtCriacao_Med, NULL) [DataEntrega], ISNULL(Quem_Med, NULL) [Usr. Entrega], 0 [QtdeEntrega],
+                NULL [DataSegEntrega], NULL [UsrSegEntrega], 0 [QtdeSegEntrega], NULL AS [DataEntregaPed],
+                'SERVIÇO' [Tipo], CASE Excluido_ServTemp WHEN 0 THEN 'NÃO' ELSE 'SIM' END [Excluído],
+                ISNULL(DtPedido_Ped, NULL) [DataPedido], ISNULL(Quem_Ped, NULL) [Usr. Ped.], Tipo_Ped [TipoPedido],
+                (
+                    SELECT MIN(CodForn_ItCotServ)
+                    FROM ItensContratoCotServ
+                    WHERE Empresa_ItCotServ = Empresa_ServTemp
+                        AND Cotacao_ItCotServ = Cotacao_ServTemp
+                        AND Serv_ItCotServ = Serv_ServTemp
+                ) [CodForn],
+                '' [OC], 0 [ValorOC], NULL [DtVencParc_Proc], Estagio_ServTemp AS Estagio_Ped
+            FROM fn_ListEmpObr('ALT 65 - TAXA ADMINISTRAÇÃO TOCTAO SOLUÇÕES',',')
+                INNER JOIN ItensCotServ_Temp ON Empresa_ServTemp = Empresa AND Obra_ServTemp = Obra
+                LEFT JOIN (
+                    SELECT Empresa_ApPedS, Obra_ApPedS, Serv_ApPedS, NumPedido_ApPedS, MAX(DataAprov_ApPedS) [DataConf_ServTemp],
+                        (
+                            SELECT MAX(APM.UsrAprov_ApPedS)
+                            FROM AprovacaoPedServ [APM]
+                            WHERE APM.Empresa_ApPedS = APM1.Empresa_ApPedS
+                                AND APM.Obra_ApPedS = APM1.Obra_ApPedS
+                                AND APM.Serv_ApPedS = APM1.Serv_ApPedS
+                                AND APM.NumPedido_ApPedS = APM1.NumPedido_ApPedS
+                                AND APM.DataAprov_ApPedS = MAX(APM1.DataAprov_ApPedS)
+                        ) [QuemConf_ServTemp]
+                    FROM AprovacaoPedServ [APM1]
+                    GROUP BY Empresa_ApPedS, Obra_ApPedS, Serv_ApPedS, NumPedido_ApPedS
+                ) [Aprovacao] ON Empresa_ServTemp = Empresa_ApPedS AND Obra_ServTemp = Obra_ApPedS AND Serv_ServTemp = Serv_ApPedS AND NumPedido_ServTemp = NumPedido_ApPedS
+                INNER JOIN Composicoes ON ItensCotServ_Temp.Serv_ServTemp = Composicoes.Cod_Comp
+                LEFT JOIN Pedidos ON Empresa_Ped = Empresa_ServTemp AND Obra_Ped = Obra_ServTemp AND Cod_Ped = NumPedido_ServTemp
+                LEFT JOIN (
+                    SELECT Empresa_Itens, Cotacao_ItCotServ, Serv_Itens, MAX(DtCriacao_Med) [DtCriacao_Med], MAX(Quem_Med) [Quem_Med],
+                        SUM(Qtde_Item) AS QtdeMed, ItensContrato.Qtde_itens,
+                        (SELECT SUM(icst.QtdeCot_ServTemp)
+                        FROM ItensCotServ_temp AS icst
+                         WHERE icst.Empresa_ServTemp = Empresa_Itens 
+                           AND icst.Obra_ServTemp = Obra_SimcServ
+                           AND icst.Serv_ServTemp = Serv_Itens 
+                           AND icst.Cotacao_ServTemp = Cotacao_ItCotServ) AS QtdePed,
+                        Obra_SimcServ
+                    FROM ItensMedicao
+                        INNER JOIN Medicoes
+                            ON ItensMedicao.Empresa_Item = Medicoes.Empresa_Med
+                            AND ItensMedicao.Contrato_Item = Medicoes.Contrato_Med
+                            AND ItensMedicao.CodMed_Item = Medicoes.Cod_Med
+                        INNER JOIN ItensContrato
+                            ON ItensMedicao.Empresa_Item = ItensContrato.Empresa_Itens
+                            AND ItensMedicao.Contrato_Item = ItensContrato.Contrato_Itens
+                            AND ItensMedicao.Ins_Item = ItensContrato.Serv_Itens
+                            AND ItensMedicao.ItensCont_Item = ItensContrato.Item_itens
+                        INNER JOIN Contratos
+                            ON Contratos.Empresa_cont = ItensContrato.Empresa_Itens
+                            AND Contratos.Cod_cont = ItensContrato.Contrato_Itens
+                        INNER JOIN ItensContratoCotServ
+                            ON Empresa_Itens = Empresa_ItCotServ
+                            AND Contrato_Itens = Contrato_ItCotServ
+                            AND Item_Itens = Item_ItCotServ
+                        INNER JOIN ItensSimuladosConfServ
+                            ON ItensSimuladosConfServ.Empresa_SimcServ = ItensContrato.Empresa_Itens
+                            AND ItensSimuladosConfServ.Cotacao_SimcServ = ItensContratoCotServ.Cotacao_ItCotServ
+                            AND ItensSimuladosConfServ.CodForn_SimcServ = ItensContratoCotServ.CodForn_ItCotServ
+                            AND ItensSimuladosConfServ.Serv_SimcServ = ItensContrato.Serv_Itens
+                            AND ItensSimuladosConfServ.Obra_SimcServ = Contratos.Obra_cont
+                    GROUP BY Empresa_Itens, Cotacao_ItCotServ, Serv_Itens, Qtde_itens, Obra_SimcServ
+                ) AS Med ON Empresa_Itens = Empresa_ServTemp AND Cotacao_ItCotServ = Cotacao_ServTemp AND Serv_Itens = Serv_ServTemp
+                AND Med.Obra_SimcServ = Obra_ServTemp AND (Med.QtdeMed = Qtde_itens OR Med.QtdeMed >= QtdePed)
+            WHERE ISNULL(ISNULL((CAST(CONVERT(VARCHAR, Aprovacao.DataConf_ServTemp, 111) AS DATETIME)), 
+                    (CAST(CONVERT(VARCHAR, ItensCotServ_Temp.DataConf_ServTemp, 111) AS DATETIME))), 
+                    (CAST(CONVERT(VARCHAR, DtPedido_ped, 111) AS DATETIME))) BETWEEN '2024-04-01' AND '2024-06-10'
+        ) [Tab]
+        LEFT JOIN (
+            SELECT Empresa_Smlc, NumCot_Smlc, MIN(Data_Smlc) [DataAprovSimulacao], MIN(Usr_Smlc) [Usr. Aprov.]
+            FROM SimulacoesConf
+            GROUP BY Empresa_Smlc, NumCot_Smlc
+        ) [SimulacoesConf1] ON CodEmp = SimulacoesConf1.Empresa_Smlc AND Cotação = SimulacoesConf1.NumCot_Smlc
+        LEFT JOIN (
+            SELECT Empresa_Smlc, NumCot_Smlc, ObraCot_Smlc, MIN(DataConf_Smlc) [DataSimulacaoObra], MIN(UsrConf_Smlc) [Usr. Sim. Obra]
+            FROM SimulacoesConf
+            GROUP BY Empresa_Smlc, NumCot_Smlc, ObraCot_Smlc
+        ) [SimulacoesConf2] ON CodEmp = SimulacoesConf2.Empresa_Smlc AND Cotação = SimulacoesConf2.NumCot_Smlc AND CodObra = SimulacoesConf2.ObraCot_Smlc
+        LEFT JOIN (
+            SELECT Empresa_Sml, NumCot_Sml, MIN(Simulacoes.Data_Sml) [DataSimulacao]
+            FROM Simulacoes
+            GROUP BY Empresa_Sml, NumCot_Sml
+        ) [Simulacoes] ON CodEmp = Simulacoes.Empresa_Sml AND Cotação = Simulacoes.NumCot_Sml
+        WHERE [TipoPedido] <> 8
+
+        UNION
+
+        SELECT CodEmp, CodObra, Pedido, Cotação, UnidIns, CodIns, UPPER(CodIns + ' - ' + Insumo) [Insumo],
+            Qtde_Temp [QtdeIns], CAST([Data do Pedido] AS DATETIME) [Data do Pedido], [Usr. Conf.],
+            CAST(DataCompra AS DATETIME) [DataCompra], [Usr. Compra], CAST(DataEntrega AS DATETIME) [DataEntrega],
+            [Usr. Entrega], QtdeEntrega, CAST(DataSegEntrega AS DATETIME) [DataSegEntrega], UsrSegEntrega,
+            QtdeSegEntrega, CAST(DataEntregaPed AS DATETIME) [DataEntregaPed], Tipo, Excluído,
+            CAST(DataAprovSimulacao AS DATETIME) [DataAprovSimulacao], [Usr. Aprov.], CAST(DataSimulacaoObra AS DATETIME) [DataSimulacaoObra],
+            [Usr. Sim. Obra], CAST(DataPedido AS DATETIME) [DataPedido], [Usr. Ped.], DATEDIFF(DAY, DataEntregaPed, DataEntrega) [Atraso],
+            CASE WHEN [Data do Pedido] IS NULL AND Excluído = 'NÃO' THEN 1 ELSE 0 END [PendDtApPed],
+            CASE WHEN DataAprovSimulacao IS NULL AND [DataSimulacao] IS NOT NULL THEN 1 ELSE 0 END [PendSimulacao],
+            CASE WHEN DataSimulacaoObra IS NULL AND DataAprovSimulacao IS NOT NULL AND [Tab].TipoPedido NOT IN (2,4) THEN 1 ELSE 0 END [PendSimulacaoObra],
+            CASE WHEN DataCompra IS NULL AND DataSimulacaoObra IS NOT NULL AND [Tab].Estagio_Ped = 4 THEN 1 ELSE 0 END [PendDtCompra],
+            CASE WHEN DataEntrega IS NULL AND DataCompra IS NOT NULL THEN 1 ELSE 0 END PendEnt, 1 [TipoOrigem],
+            'ANTERIOR AO PERÍODO' [Origem], TipoPedido, 0 [PrazoCompra], CASE WHEN DataCompra IS NULL THEN 0 ELSE 1 END [TemOC],
+            CASE WHEN DATEDIFF(DAY, DataPedido, DataCompra) <= 0 THEN 1 ELSE 0 END [PedidoCompraPrazo],
+            CASE WHEN DATEDIFF(DAY, DataPedido, DataCompra) > 0 THEN 1 ELSE 0 END [PedidoCompraForaPrazo], 0 [PrazoSimulacao],
+            CASE WHEN DATEDIFF(DAY, DataAprovSimulacao, DataCompra) <= 0 THEN 1 ELSE 0 END [SimulacaoCompraPrazo],
+            CASE WHEN DATEDIFF(DAY, DataAprovSimulacao, DataCompra) > 0 THEN 1 ELSE 0 END [SimulacaoCompraForaPrazo],
+            DATEDIFF(DAY, DataPedido, DataEntrega) [TempoTotal], CASE WHEN DATEDIFF(DAY, DataPedido, DataEntrega) <= 0 THEN 1 ELSE 0 END [EntregaPrazo],
+            CASE WHEN DATEDIFF(DAY, DataPedido, DataEntrega) > 0 THEN 1 ELSE 0 END [EntregaForaPrazo], CodForn_Ocp,
+            DATEDIFF(DAY, DataPedido, DataCompra) [PedidoXCompra], DATEDIFF(DAY, DataPedido, DataEntrega) [PedidoXEntrega], OC, ISNULL(ValorOC, 0) [ValorOC], DtVencParc_Proc
+        FROM
+        (
+            SELECT Empresa_temp [CodEmp], Obra_temp [CodObra], NumPedido_temp [Pedido], Cotacao_temp [Cotação], Insumo_temp [CodIns],
+                Unid_temp [UnidIns], Descr_Ins [Insumo], QtdeCot_temp AS Qtde_Temp, ISNULL(Aprovacao.DataConf_temp, ItensCot_Temp.DataConf_temp) [Data do Pedido],
+                ISNULL(Aprovacao.QuemConf_temp, ItensCot_Temp.QuemConf_temp) [Usr. Conf.], ISNULL(DataGer_Ocp, NULL) [DataCompra], ISNULL(Usuario_Ocp, NULL) [Usr. Compra],
+                ISNULL(DtAtividade_Hen, NULL) [DataEntrega], ISNULL(Usuario_Hen, NULL) [Usr. Entrega], ISNULL(Qtde_Hen, 0) [QtdeEntrega], ISNULL(DtSegEnt, NULL) [DataSegEntrega],
+                ISNULL(UsrSegEnt, NULL) [UsrSegEntrega], ISNULL(QtdeSegEnt, 0) [QtdeSegEntrega], DtEntrega_temp [DataEntregaPed], 'MATERIAL' [Tipo],
+                CASE Excluido_temp WHEN 0 THEN 'NÃO' ELSE 'SIM' END [Excluído], 
+                ISNULL(DtPedido_Ped, NULL) [DataPedido], ISNULL(Quem_Ped, NULL) [Usr. Ped.], Tipo_Ped [TipoPedido], 
+                CodForn_Ocp, OC, ValorOC, DtVencParc_Proc, Estagio_temp AS Estagio_Ped
+            FROM fn_ListEmpObr('ALT 65 - TAXA ADMINISTRAÇÃO TOCTAO SOLUÇÕES', ',') 
+            INNER JOIN ItensCot_Temp ON Empresa_temp = Empresa AND Obra_temp = Obra
+            LEFT JOIN ( 
+                SELECT Empresa_ApPedM, Obra_ApPedM, Insumo_ApPedM, NumPedido_ApPedM, ItemPed_ApPedM, 
+                    MAX(DataAprov_ApPedM) [DataConf_temp], 
+                    ( 
+                        SELECT MAX(APM.UsrAprov_ApPedM) 
+                        FROM AprovacaoPedMat [APM] 
+                        WHERE APM.Empresa_ApPedM = APM1.Empresa_ApPedM 
+                            AND APM.Obra_ApPedM = APM1.Obra_ApPedM 
+                            AND APM.Insumo_ApPedM = APM1.Insumo_ApPedM 
+                            AND APM.NumPedido_ApPedM = APM1.NumPedido_ApPedM 
+                            AND APM.ItemPed_ApPedM = APM1.ItemPed_ApPedM 
+                            AND APM.DataAprov_ApPedM = MAX(APM1.DataAprov_ApPedM) 
+                    ) [QuemConf_temp] 
+                FROM AprovacaoPedMat [APM1] 
+                GROUP BY Empresa_ApPedM, Obra_ApPedM, Insumo_ApPedM, NumPedido_ApPedM, ItemPed_ApPedM 
+            ) [Aprovacao] ON Empresa_temp = Empresa_ApPedM AND Obra_temp = Obra_ApPedM AND Insumo_temp = Insumo_ApPedM 
+                AND NumPedido_temp = NumPedido_ApPedM AND ItemPed_temp = ItemPed_ApPedM 
+            LEFT JOIN ( 
+                SELECT Empresa_Ocp [EmpresaOC], Obra_Ocp [ObraOC], NumCot_Ocp [CotacaoOC], CodInsumo_Ioc [InsumoOC], 
+                    MAX(NumeroOC_Ocp) [OC], MAX(DataGer_Ocp) [DataGer_Ocp], MAX(Usuario_Ocp) [Usuario_Ocp], 
+                    MAX(CodForn_Ocp) [CodForn_Ocp], SUM(Qtde_Ioc * Preco_Ioc) [ValorOC],
+                    (
+                        SELECT DISTINCT COALESCE(MAX(Parc_Proc.DtVencParc_Proc), MAX(DataProc_Pag)) AS DtVencParc_Proc
+                        FROM Dados_Proc
+                        INNER JOIN Parc_Proc ON Dados_Proc.Empresa_Proc = Parc_Proc.Empresa_Proc
+                            AND Dados_Proc.Obra_Proc = Parc_Proc.Obra_Proc
+                            AND Dados_Proc.Num_Proc = Parc_Proc.Num_Proc
+                        LEFT JOIN ContasPagas ON ContasPagas.Empresa_pag = Dados_Proc.Empresa_proc
+                            AND ContasPagas.ObraProc_Pag = Dados_Proc.Obra_Proc
+                            AND ContasPagas.OrdemCompra_Pag = Dados_Proc.OrdemCompra_Proc
+                            AND ContasPagas.NumCot_Pag = Dados_Proc.NumCot_Proc
+                        WHERE Dados_Proc.Empresa_Proc = Empresa_Ocp
+                            AND Dados_Proc.Obra_Proc = Obra_Ocp
+                            AND Dados_Proc.NumCot_Proc = NumCot_Ocp
+                            AND Dados_Proc.OrdemCompra_Proc = NumeroOC_Ocp
+                    ) AS DtVencParc_Proc
+                FROM OrdemCompra
+                INNER JOIN ItensOrdemCompra ON Empresa_Ocp = Empresa_Ioc
+                    AND Obra_Ocp = Obra_Ioc
+                    AND NumeroOC_Ocp = NumeroOC_Ioc
+                WHERE ISNULL(NumCot_Ocp, 0) <> 0
+                GROUP BY Empresa_Ocp, Obra_Ocp, NumCot_Ocp, CodInsumo_Ioc, NumeroOC_Ocp
+            ) [OC] ON EmpresaOC = Empresa_temp AND ObraOC = Obra_temp AND InsumoOC = Insumo_temp AND CotacaoOC = ISNULL(Cotacao_temp, 0)
+            LEFT JOIN (
+                SELECT Empresa_Hen, Obra_Hen, NumOc_Hen, NumIns_Hen, DtAtividade_Hen, Usuario_Hen, Qtde_Hen - QtdeCancelada_Hen [Qtde_Hen]
+                FROM HistoricoEntrega
+                WHERE Entrega_Hen = 1
+            ) AS HistoricoEntrega ON Empresa_Hen = Empresa_temp AND Obra_Hen = Obra_temp AND NumOc_Hen = OC AND NumIns_Hen = Insumo_temp
+            LEFT JOIN (
+                SELECT Empresa_Hen [EmpSegEnt], Obra_Hen [ObrSegEnt], NumOc_Hen [OcSegEnt], NumIns_Hen [InsSegEnt],
+                    DataEntrega_hdt [DtSegEnt], Usuario_Hen [UsrSegEnt], Qtde_Hen [QtdeSegEnt]
+                FROM HistoricoEntrega
+                INNER JOIN (
+                    SELECT Empresa_Hen [EmpUlt], Obra_Hen [ObrUlt], NumOc_Hen [OcUlt], NumIns_Hen [InsUlt], MAX(Entrega_hen) [UltEnt]
+                    FROM HistoricoEntrega
+                    GROUP BY Empresa_Hen, Obra_Hen, NumOc_Hen, NumIns_Hen
+                ) AS UltEntrega ON Empresa_Hen = EmpUlt AND Obra_Hen = ObrUlt AND NumOc_Hen = OcUlt AND NumIns_Hen = InsUlt AND Entrega_hen = UltEnt
+                INNER JOIN (
+                    SELECT Empresa_hdt AS EmpHdt, Obra_HDt AS ObraHdt, NumOC_HDt AS OcHdt, MAX(NumProc_Hdt) AS ProcHdt
+                    FROM HistoricoDtEntrega
+                    GROUP BY Empresa_hdt, Obra_HDt, NumOC_HDt
+                ) AS UltDtEntrega ON Empresa_Hen = EmpHdt AND Obra_Hen = ObraHdt AND NumOc_Hen = OcHdt
+                INNER JOIN HistoricoDtEntrega ON Empresa_hdt = EmpHdt AND Obra_HDt = ObraHdt AND NumOC_HDt = OcHdt AND NumProc_Hdt = ProcHdt
+                WHERE Entrega_hen <> 1
+            ) AS SegundaEntrega ON EmpSegEnt = Empresa_temp AND ObrSegEnt = Obra_temp AND OcSegEnt = OC AND InsSegEnt = Insumo_temp
+            INNER JOIN InsumosGeral ON ItensCot_Temp.Insumo_temp = InsumosGeral.Cod_Ins
+            LEFT JOIN Pedidos ON Empresa_Ped = Empresa_temp AND Obra_Ped = Obra_temp AND Cod_Ped = NumPedido_temp
+            WHERE ISNULL(ISNULL((CAST(CONVERT(VARCHAR, Aprovacao.DataConf_temp, 111) AS DATETIME)), 
+                (CAST(CONVERT(VARCHAR, ItensCot_Temp.DataConf_temp, 111) AS DATETIME))), 
+                (CAST(CONVERT(VARCHAR, DtPedido_ped, 111) AS DATETIME))) < '2024-04-01'
+            
+            UNION
+            
+            SELECT Empresa_ServTemp [CodEmp], Obra_ServTemp [CodObra], NumPedido_ServTemp [Pedido], Cotacao_ServTemp [Cotação],
+                Serv_ServTemp [CodIns], Unid_ServTemp [UnidIns], Descr_Comp [Insumo], QtdeCot_ServTemp,
+                ISNULL(Aprovacao.DataConf_ServTemp, ItensCotServ_Temp.DataConf_ServTemp) [Data do Pedido],
+                ISNULL(Aprovacao.QuemConf_ServTemp, ItensCotServ_Temp.QuemConf_ServTemp) [Usr. Conf.],
+                ISNULL((
+                    SELECT MIN(SimulacoesConf.Data_Smlc)
+                    FROM SimulacoesConf
+                    WHERE (SimulacoesConf.Empresa_Smlc = Empresa_ServTemp)
+                        AND (SimulacoesConf.NumCot_Smlc = Cotacao_ServTemp)
+                        AND (SimulacoesConf.ObraCot_Smlc = Obra_ServTemp)
+                ), NULL) [DataCompra],
+                ISNULL((
+                    SELECT MIN(SimulacoesConf.Usr_Smlc)
+                    FROM SimulacoesConf
+                    WHERE (SimulacoesConf.Empresa_Smlc = Empresa_ServTemp)
+                        AND (SimulacoesConf.NumCot_Smlc = Cotacao_ServTemp)
+                        AND (SimulacoesConf.ObraCot_Smlc = Obra_ServTemp)
+                ), NULL) [Usr. Compra],
+                ISNULL(DtCriacao_Med, NULL) [DataEntrega], ISNULL(Quem_Med, NULL) [Usr. Entrega], 0 [QtdeEntrega],
+                NULL [DataSegEntrega], NULL [UsrSegEntrega], 0 [QtdeSegEntrega], NULL AS [DataEntregaPed],
+                'SERVIÇO' [Tipo], CASE Excluido_ServTemp WHEN 0 THEN 'NÃO' ELSE 'SIM' END [Excluído],
+                ISNULL(DtPedido_Ped, NULL) [DataPedido], ISNULL(Quem_Ped, NULL) [Usr. Ped.], Tipo_Ped [TipoPedido], 
+                (
+                    SELECT MIN(CodForn_ItCotServ)
+                    FROM ItensContratoCotServ
+                    WHERE Empresa_ItCotServ = Empresa_ServTemp
+                        AND Cotacao_ItCotServ = Cotacao_ServTemp
+                        AND Serv_ItCotServ = Serv_ServTemp
+                ) [CodForn],
+                '' [OC], 0 [ValorOC], NULL [DtVencParc_Proc], Estagio_ServTemp AS Estagio_Ped
+            FROM fn_ListEmpObr('ALT 65 - TAXA ADMINISTRAÇÃO TOCTAO SOLUÇÕES', ',')
+            INNER JOIN ItensCotServ_Temp ON Empresa_ServTemp = Empresa AND Obra_ServTemp = Obra
+            LEFT JOIN (
+                SELECT Empresa_ApPedS, Obra_ApPedS, Serv_ApPedS, NumPedido_ApPedS, MAX(DataAprov_ApPedS) [DataConf_ServTemp],
+                    (
+                        SELECT MAX(APM.UsrAprov_ApPedS)
+                        FROM AprovacaoPedServ [APM]
+                        WHERE APM.Empresa_ApPedS = APM1.Empresa_ApPedS
+                            AND APM.Obra_ApPedS = APM1.Obra_ApPedS
+                            AND APM.Serv_ApPedS = APM1.Serv_ApPedS
+                            AND APM.NumPedido_ApPedS = APM1.NumPedido_ApPedS
+                            AND APM.DataAprov_ApPedS = MAX(APM1.DataAprov_ApPedS)
+                    ) [QuemConf_ServTemp]
+                FROM AprovacaoPedServ [APM1]
+                GROUP BY Empresa_ApPedS, Obra_ApPedS, Serv_ApPedS, NumPedido_ApPedS
+            ) [Aprovacao] ON Empresa_ServTemp = Empresa_ApPedS AND Obra_ServTemp = Obra_ApPedS AND Serv_ServTemp = Serv_ApPedS AND NumPedido_ServTemp = NumPedido_ApPedS
+            INNER JOIN Composicoes ON ItensCotServ_Temp.Serv_ServTemp = Composicoes.Cod_Comp
+            LEFT JOIN Pedidos ON Empresa_Ped = Empresa_ServTemp AND Obra_Ped = Obra_ServTemp AND Cod_Ped = NumPedido_ServTemp
+            LEFT JOIN (
+                SELECT Empresa_Itens, Cotacao_ItCotServ, Serv_Itens, MAX(DtCriacao_Med) [DtCriacao_Med], MAX(Quem_Med) [Quem_Med],
+                    SUM(Qtde_Item) AS QtdeMed, ItensContrato.Qtde_itens,
+                    (SELECT SUM(icst.QtdeCot_ServTemp)
+                     FROM ItensCotServ_temp AS icst
+                     WHERE icst.Empresa_ServTemp = Empresa_Itens 
+                       AND icst.Obra_ServTemp = Obra_SimcServ
+                       AND icst.Serv_ServTemp = Serv_Itens 
+                       AND icst.Cotacao_ServTemp = Cotacao_ItCotServ) AS QtdePed,
+                    Obra_SimcServ
+                FROM ItensMedicao
+                    INNER JOIN Medicoes
+                        ON ItensMedicao.Empresa_Item = Medicoes.Empresa_Med
+                        AND ItensMedicao.Contrato_Item = Medicoes.Contrato_Med
+                        AND ItensMedicao.CodMed_Item = Medicoes.Cod_Med
+                    INNER JOIN ItensContrato
+                        ON ItensMedicao.Empresa_Item = ItensContrato.Empresa_Itens
+                        AND ItensMedicao.Contrato_Item = ItensContrato.Contrato_Itens
+                        AND ItensMedicao.Ins_Item = ItensContrato.Serv_Itens
+                        AND ItensMedicao.ItensCont_Item = ItensContrato.Item_itens
+                    INNER JOIN Contratos
+                        ON Contratos.Empresa_cont = ItensContrato.Empresa_Itens
+                        AND Contratos.Cod_cont = ItensContrato.Contrato_Itens
+                    INNER JOIN ItensContratoCotServ
+                        ON Empresa_Itens = Empresa_ItCotServ
+                        AND Contrato_Itens = Contrato_ItCotServ
+                        AND Item_Itens = Item_ItCotServ
+                    INNER JOIN ItensSimuladosConfServ
+                        ON ItensSimuladosConfServ.Empresa_SimcServ = ItensContrato.Empresa_Itens
+                        AND ItensSimuladosConfServ.Cotacao_SimcServ = ItensContratoCotServ.Cotacao_ItCotServ
+                        AND ItensSimuladosConfServ.CodForn_SimcServ = ItensContratoCotServ.CodForn_ItCotServ
+                        AND ItensSimuladosConfServ.Serv_SimcServ = ItensContrato.Serv_Itens
+                        AND ItensSimuladosConfServ.Obra_SimcServ = Contratos.Obra_cont
+                GROUP BY Empresa_Itens, Cotacao_ItCotServ, Serv_Itens, Qtde_itens, Obra_SimcServ
+            ) AS Med ON Empresa_Itens = Empresa_ServTemp AND Cotacao_ItCotServ = Cotacao_ServTemp AND Serv_Itens = Serv_ServTemp
+            AND Med.Obra_SimcServ = Obra_ServTemp AND (Med.QtdeMed = Qtde_itens OR Med.QtdeMed >= QtdePed)
+            WHERE ISNULL(ISNULL((CAST(CONVERT(VARCHAR, Aprovacao.DataConf_ServTemp, 111) AS DATETIME)), 
+                (CAST(CONVERT(VARCHAR, ItensCotServ_Temp.DataConf_ServTemp, 111) AS DATETIME))), 
+                (CAST(CONVERT(VARCHAR, DtPedido_ped, 111) AS DATETIME))) < '2024-04-01'
+        ) [Tab]
+        LEFT JOIN (
+            SELECT Empresa_Smlc, NumCot_Smlc, MIN(Data_Smlc) [DataAprovSimulacao], MIN(Usr_Smlc) [Usr. Aprov.]
+            FROM SimulacoesConf
+            GROUP BY Empresa_Smlc, NumCot_Smlc
+        ) [SimulacoesConf1] ON CodEmp = SimulacoesConf1.Empresa_Smlc AND Cotação = SimulacoesConf1.NumCot_Smlc
+        LEFT JOIN (
+            SELECT Empresa_Smlc, NumCot_Smlc, ObraCot_Smlc, MIN(DataConf_Smlc) [DataSimulacaoObra], MIN(UsrConf_Smlc) [Usr. Sim. Obra]
+            FROM SimulacoesConf
+            GROUP BY Empresa_Smlc, NumCot_Smlc, ObraCot_Smlc
+        ) [SimulacoesConf2] ON CodEmp = SimulacoesConf2.Empresa_Smlc AND Cotação = SimulacoesConf2.NumCot_Smlc AND CodObra = SimulacoesConf2.ObraCot_Smlc
+        LEFT JOIN (
+            SELECT Empresa_Sml, NumCot_Sml, MIN(Simulacoes.Data_Sml) [DataSimulacao]
+            FROM Simulacoes
+            GROUP BY Empresa_Sml, NumCot_Sml
+        ) [Simulacoes] ON CodEmp = Simulacoes.Empresa_Sml AND Cotação = Simulacoes.NumCot_Sml
+        WHERE ([Data do Pedido] IS NULL 
+            OR DataAprovSimulacao IS NULL 
+            OR DataSimulacaoObra IS NULL 
+            OR DataCompra IS NULL 
+            OR DataEntrega IS NULL) 
+            AND [TipoPedido] <> 8
+    ) [Tabela]
+    LEFT JOIN (
+        SELECT Empresa_Ped, Obra_Ped, Cod_Ped
+        FROM ItensCot_Temp
+        INNER JOIN Pedidos ON Empresa_temp = Empresa_Ped AND Obra_temp = Obra_Ped AND NumPedido_temp = Cod_Ped
+        INNER JOIN AdiantamentoContrato ON Empresa_temp = Empresa_AdCont AND Obra_temp = Obra_AdCont AND Cotacao_temp = NumCot_AdCont
+        GROUP BY Empresa_Ped, Obra_Ped, Cod_Ped
+    ) [PedidosAdiantamento] ON CodEmp = Empresa_Ped AND CodObra = Obra_Ped AND Pedido = Cod_Ped
+) [Resulta]
+INNER JOIN Empresas ON CodEmp = Codigo_Emp
+INNER JOIN Obras ON CodEmp = Empresa_Obr AND CodObra = Cod_Obr
+LEFT JOIN Pessoas ON CodForn_Ocp = Cod_Pes
+LEFT JOIN (
+    SELECT
+        CASE WHEN Qtde_Ioc + QtdeAMais_Ioc - ISNULL(QtdeDescartada, 0) - ISNULL(Qtde_Ent, 0) > 0 THEN 1 ELSE 0 END [PendenteEnt],
+        Empresa_Ioc, Obra_Ioc, CodInsumo_Ioc, NumeroOC_Ioc, Cotacao_Ioc
+    FROM fn_ListEmpObr('ALT 65 - TAXA ADMINISTRAÇÃO TOCTAO SOLUÇÕES', ',')
+    INNER JOIN ItensOrdemCompra ON Empresa = ItensOrdemCompra.Empresa_Ioc AND obra = ItensOrdemCompra.Obra_Ioc
+    LEFT JOIN (
+        SELECT Empresa_Ioc [Empresa_Descartada], Obra_Ioc [Obra_Descartada], NumeroOC_Ioc [NumeroOC_Descartada], CodInsumo_Ioc [CodInsumo_Descartada],
+            (Qtde_Ioc + ISNULL(QtdeAMais_Ioc, 0)) - ISNULL(Qtde_Ent, 0) [QtdeDescartada]
+            FROM fn_ListEmpObr('ALT 65 - TAXA ADMINISTRAÇÃO TOCTAO SOLUÇÕES', ',')
+        INNER JOIN ItensOrdemCompra ON Empresa = Empresa_Ioc AND Obra = Obra_Ioc
+        LEFT JOIN (
+            SELECT Empresa_Ent, Obra_Ent, NumOC_Ent, Ins_Ent, SUM(Qtde_Ent) [Qtde_Ent]
+            FROM (
+                SELECT Empresa_Ent, Obra_Ent, NumOC_Ent, Ins_Ent, Qtde_Ent
+                FROM fn_ListEmpObr('ALT 65 - TAXA ADMINISTRAÇÃO TOCTAO SOLUÇÕES', ',')
+                INNER JOIN Entrada ON Empresa = Empresa_Ent AND Obra = Obra_Ent
+                UNION ALL
+                SELECT Empresa_Est, Obra_Est, NumOC_Est, Ins_Est, Qtde_Est
+                FROM fn_ListEmpObr('ALT 65 - TAXA ADMINISTRAÇÃO TOCTAO SOLUÇÕES', ',')
+                INNER JOIN FEstoque ON Empresa = Empresa_Est AND Obra = Obra_Est
+                WHERE Status_Est = 1
+            ) [Qtde]
+            GROUP BY Empresa_Ent, Obra_Ent, NumOC_Ent, Ins_Ent
+        ) [Qtde] ON Empresa_Ioc = Empresa_Ent AND Obra_Ioc = Obra_Ent AND NumeroOC_Ioc = NumOC_Ent AND CodInsumo_Ioc = Ins_Ent
+        WHERE (Qtde_Ioc + ISNULL(QtdeAMais_Ioc, 0)) - ISNULL(Qtde_Ent, 0) > 0
+    ) [Descartadas] ON Empresa_Ioc = Empresa_Descartada AND Obra_Ioc = Obra_Descartada AND NumeroOC_Ioc = NumeroOC_Descartada AND CodInsumo_Ioc = CodInsumo_Descartada
+    LEFT JOIN (
+        SELECT Empresa_Ent, Obra_Ent, NumOC_Ent, Ins_Ent, SUM(Qtde_Ent) [Qtde_Ent]
+        FROM fn_ListEmpObr('ALT 65 - TAXA ADMINISTRAÇÃO TOCTAO SOLUÇÕES', ',')
+        INNER JOIN Entrada ON Empresa = Empresa_Ent AND Obra = Obra_Ent
+        GROUP BY Empresa_Ent, Obra_Ent, NumOC_Ent, Ins_Ent
+    ) [Entrega] ON Empresa_Ioc = Empresa_Ent AND Obra_Ioc = Obra_Ent AND NumeroOC_Ioc = NumOC_Ent AND CodInsumo_Ioc = Ins_Ent
+) AS EntregasPendentes ON Resulta.CodEmp = EntregasPendentes.Empresa_Ioc AND Resulta.CodObra = EntregasPendentes.Obra_Ioc AND Resulta.Cotação = EntregasPendentes.Cotacao_Ioc AND Resulta.OC = EntregasPendentes.NumeroOC_Ioc AND Resulta.CodIns = EntregasPendentes.CodInsumo_Ioc
+
+WHERE TipoOrigem IN (0)
+    AND CASE 0 WHEN 0 THEN 1 WHEN 1 THEN -1 END NOT IN (PedidoAdiantamento)
+ORDER BY CodEmp, CodObra, TipoOrigem, Pedido;
+': ('42000', '[42000] [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid length parameter passed to the LEFT or SUBSTRING function. (537) (SQLExecDirectW); [42000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+2024-06-10 17:41:37,567 - INFO - data inicial é :2024-05-01, e data final = 2024-06-10
+2024-06-10 17:41:37,568 - INFO - Conectando ao banco de dados...
+2024-06-10 17:41:37,700 - INFO - Conexão estabelecida.
+2024-06-10 17:41:37,701 - INFO - Cursor criado.
+2024-06-10 17:41:37,701 - INFO - Executando a query SQL...
+2024-06-10 17:41:41,205 - INFO - Query executada com sucesso.
+2024-06-10 17:41:41,206 - INFO - Nenhum dado encontrado para o período especificado.
+2024-06-10 17:41:46,400 - INFO - data inicial é :2024-04-01, e data final = 2024-06-10
+2024-06-10 17:41:46,515 - INFO - Conectando ao banco de dados...
+2024-06-10 17:41:46,651 - INFO - Conexão estabelecida.
+2024-06-10 17:41:46,651 - INFO - Cursor criado.
+2024-06-10 17:41:46,651 - INFO - Executando a query SQL...
+2024-06-10 17:41:50,072 - INFO - Query executada com sucesso.
+2024-06-10 17:41:50,073 - INFO - Nenhum dado encontrado para o período especificado.
+2024-06-10 17:41:57,357 - INFO - data inicial é :2024-04-01, e data final = 2024-06-10
+2024-06-10 17:41:57,358 - INFO - Conectando ao banco de dados...
+2024-06-10 17:41:57,378 - INFO - Conexão estabelecida.
+2024-06-10 17:41:57,378 - INFO - Cursor criado.
+2024-06-10 17:41:57,379 - INFO - Executando a query SQL...
+2024-06-10 17:42:01,525 - INFO - Query executada com sucesso.
+2024-06-10 17:42:01,525 - INFO - Dados encontrados, exportando para Excel...
+2024-06-10 17:42:01,930 - INFO - Relatório exportado para relatorio_obra237OB-10-06-2024 17_41.xlsx
+2024-06-10 17:45:33,287 - INFO - data inicial é :2024-04-01, e data final = 2024-06-10
+2024-06-10 17:45:33,290 - INFO - Conectando ao banco de dados...
+2024-06-10 17:45:33,425 - INFO - Conexão estabelecida.
+2024-06-10 17:45:33,425 - INFO - Cursor criado.
+2024-06-10 17:45:33,426 - INFO - Executando a query SQL...
+2024-06-10 17:45:36,248 - INFO - Query executada com sucesso.
+2024-06-10 17:45:36,248 - INFO - Dados encontrados, exportando para Excel...
+2024-06-10 17:45:36,561 - INFO - Relatório exportado para relatorio_obra237OB-10-06-2024 17_45.xlsx
+2024-06-10 17:45:42,491 - INFO - data inicial é :2024-05-01, e data final = 2024-06-10
+2024-06-10 17:45:42,607 - INFO - Conectando ao banco de dados...
+2024-06-10 17:45:42,741 - INFO - Conexão estabelecida.
+2024-06-10 17:45:42,741 - INFO - Cursor criado.
+2024-06-10 17:45:42,742 - INFO - Executando a query SQL...
+2024-06-10 17:45:46,250 - INFO - Query executada com sucesso.
+2024-06-10 17:45:46,251 - INFO - Nenhum dado encontrado para o período especificado.
+2024-06-11 08:15:03,424 - INFO - data inicial é :2024-04-01, e data final = 2024-06-11
+2024-06-11 08:15:03,539 - INFO - Conectando ao banco de dados...
+2024-06-11 08:15:03,561 - INFO - Conexão estabelecida.
+2024-06-11 08:15:03,561 - INFO - Cursor criado.
+2024-06-11 08:15:03,561 - INFO - Executando a query SQL...
+2024-06-11 08:15:09,750 - INFO - Query executada com sucesso.
+2024-06-11 08:15:09,750 - INFO - Dados encontrados, exportando para Excel...
+2024-06-11 08:15:10,093 - INFO - Relatório exportado para relatorio_obra237OB-11-06-2024 08_15.xlsx
+2024-06-11 09:07:07,602 - INFO - data inicial é :2024-04-01, e data final = 2024-06-11
+2024-06-11 09:07:07,716 - INFO - Conectando ao banco de dados...
+2024-06-11 09:07:07,736 - INFO - Conexão estabelecida.
+2024-06-11 09:07:07,737 - INFO - Cursor criado.
+2024-06-11 09:07:07,737 - INFO - Executando a query SQL...
+2024-06-11 09:07:11,747 - INFO - Query executada com sucesso.
+2024-06-11 09:07:11,747 - INFO - Dados encontrados, exportando para Excel...
+2024-06-11 09:07:12,130 - INFO - Relatório exportado para relatorio_obra237OB-11-06-2024 09_07.xlsx
+2024-06-11 09:32:27,227 - INFO - data inicial é :2024-04-01, e data final = 2024-06-11
+2024-06-11 09:32:27,343 - INFO - Conectando ao banco de dados...
+2024-06-11 09:32:27,365 - INFO - Conexão estabelecida.
+2024-06-11 09:32:27,365 - INFO - Cursor criado.
+2024-06-11 09:32:27,365 - INFO - Executando a query SQL...
+2024-06-11 09:32:30,889 - INFO - Query executada com sucesso.
+2024-06-11 09:32:30,889 - INFO - Dados encontrados, exportando para Excel...
+2024-06-11 09:32:32,785 - INFO - Relatório exportado para relatorio_obra237OB-11-06-2024 09_32.xlsx
+2024-06-11 11:36:22,768 - INFO - data inicial é :2024-04-01, e data final = 2024-06-11
+2024-06-11 11:36:22,769 - INFO - Conectando ao banco de dados...
+2024-06-11 11:36:22,903 - INFO - Conexão estabelecida.
+2024-06-11 11:36:22,904 - INFO - Cursor criado.
+2024-06-11 11:36:22,904 - INFO - Executando a query SQL...
+2024-06-11 11:36:27,477 - INFO - Query executada com sucesso.
+2024-06-11 11:36:27,477 - INFO - Dados encontrados, exportando para Excel...
+2024-06-11 11:36:28,804 - INFO - Relatório exportado para relatorio_obra237OB-11-06-2024 11_36.xlsx
+2024-06-11 11:37:33,734 - INFO - data inicial é :2024-04-01, e data final = 2024-06-11
+2024-06-11 11:37:33,994 - INFO - Conectando ao banco de dados...
+2024-06-11 11:37:34,024 - INFO - Conexão estabelecida.
+2024-06-11 11:37:34,024 - INFO - Cursor criado.
+2024-06-11 11:37:34,025 - INFO - Executando a query SQL...
+2024-06-11 11:37:37,248 - INFO - Query executada com sucesso.
+2024-06-11 11:37:37,248 - INFO - Dados encontrados, exportando para Excel...
+2024-06-11 11:37:42,867 - INFO - data inicial é :2024-04-01, e data final = 2024-06-11
+2024-06-11 11:37:42,867 - INFO - Conectando ao banco de dados...
+2024-06-11 11:37:43,004 - INFO - Conexão estabelecida.
+2024-06-11 11:37:43,004 - INFO - Cursor criado.
+2024-06-11 11:37:43,005 - INFO - Executando a query SQL...
+2024-06-11 11:37:45,848 - INFO - Query executada com sucesso.
+2024-06-11 11:37:45,848 - INFO - Dados encontrados, exportando para Excel...
+2024-06-11 11:38:05,969 - INFO - data inicial é :2024-04-01, e data final = 2024-06-11
+2024-06-11 11:38:06,092 - INFO - Conectando ao banco de dados...
+2024-06-11 11:38:06,235 - INFO - Conexão estabelecida.
+2024-06-11 11:38:06,236 - INFO - Cursor criado.
+2024-06-11 11:38:06,236 - INFO - Executando a query SQL...
+2024-06-11 11:38:09,520 - INFO - Query executada com sucesso.
+2024-06-11 11:38:09,520 - INFO - Dados encontrados, exportando para Excel...
+2024-06-11 11:38:09,572 - INFO - Relatório exportado para relatorio_obra237OB-11-06-2024 11_38.xlsx
+2024-06-11 11:38:19,868 - INFO - data inicial é :2024-04-01, e data final = 2024-06-11
+2024-06-11 11:38:19,868 - INFO - Conectando ao banco de dados...
+2024-06-11 11:38:19,889 - INFO - Conexão estabelecida.
+2024-06-11 11:38:19,889 - INFO - Cursor criado.
+2024-06-11 11:38:19,889 - INFO - Executando a query SQL...
+2024-06-11 11:38:22,822 - INFO - Query executada com sucesso.
+2024-06-11 11:38:22,822 - INFO - Dados encontrados, exportando para Excel...
+2024-06-11 11:38:22,867 - INFO - Relatório exportado para relatorio_obra237OB-11-06-2024 11_38.xlsx
+2024-06-11 11:38:30,769 - INFO - data inicial é :2024-04-01, e data final = 2024-06-11
+2024-06-11 11:38:30,770 - INFO - Conectando ao banco de dados...
+2024-06-11 11:38:30,916 - INFO - Conexão estabelecida.
+2024-06-11 11:38:30,918 - INFO - Cursor criado.
+2024-06-11 11:38:30,918 - INFO - Executando a query SQL...
+2024-06-11 11:38:33,920 - INFO - Query executada com sucesso.
+2024-06-11 11:38:33,921 - INFO - Dados encontrados, exportando para Excel...
+2024-06-11 11:38:34,001 - INFO - Relatório exportado para relatorios/relatorio_obra237OB-11-06-2024 11:38.xlsx
+2024-06-11 11:39:55,147 - INFO - data inicial é :2024-04-01, e data final = 2024-06-11
+2024-06-11 11:39:55,150 - INFO - Conectando ao banco de dados...
+2024-06-11 11:39:55,289 - INFO - Conexão estabelecida.
+2024-06-11 11:39:55,289 - INFO - Cursor criado.
+2024-06-11 11:39:55,289 - INFO - Executando a query SQL...
+2024-06-11 11:39:58,565 - INFO - Query executada com sucesso.
+2024-06-11 11:39:58,565 - INFO - Dados encontrados, exportando para Excel...
+2024-06-11 11:39:58,795 - INFO - Relatório exportado para relatorio_obra237OB-11-06-2024 11_39.xlsx
+2024-06-11 12:07:30,306 - INFO - data inicial é :2024-04-01, e data final = 2024-06-11
+2024-06-11 12:07:30,309 - INFO - Conectando ao banco de dados...
+2024-06-11 12:07:30,458 - INFO - Conexão estabelecida.
+2024-06-11 12:07:30,458 - INFO - Cursor criado.
+2024-06-11 12:07:30,458 - INFO - Executando a query SQL...
+2024-06-11 12:07:33,435 - INFO - Query executada com sucesso.
+2024-06-11 12:07:33,435 - INFO - Dados encontrados, exportando para Excel...
+2024-06-11 12:07:33,677 - INFO - Relatório exportado para relatorios/Rel_obra237OB-11-06-2024 12:07.xlsx
+2024-06-11 12:15:53,095 - INFO - data inicial é :2024-04-01, e data final = 2024-06-11
+2024-06-11 12:15:53,099 - INFO - Conectando ao banco de dados...
+2024-06-11 12:15:53,233 - INFO - Conexão estabelecida.
+2024-06-11 12:15:53,233 - INFO - Cursor criado.
+2024-06-11 12:15:53,233 - INFO - Executando a query SQL...
+2024-06-11 12:15:56,152 - INFO - Query executada com sucesso.
+2024-06-11 12:15:56,153 - INFO - Dados encontrados, exportando para Excel...
+2024-06-11 12:16:25,769 - INFO - data inicial é :2024-04-01, e data final = 2024-06-11
+2024-06-11 12:16:25,770 - INFO - Conectando ao banco de dados...
+2024-06-11 12:16:25,905 - INFO - Conexão estabelecida.
+2024-06-11 12:16:25,906 - INFO - Cursor criado.
+2024-06-11 12:16:25,906 - INFO - Executando a query SQL...
+2024-06-11 12:16:28,816 - INFO - Query executada com sucesso.
+2024-06-11 12:16:28,817 - INFO - Dados encontrados, exportando para Excel...
+2024-06-11 12:16:29,137 - INFO - Relatório exportado para relatorios/237OB_11-06-2024 12:16.xlsx
+2024-06-11 12:18:33,485 - INFO - data inicial é :2024-04-01, e data final = 2024-06-11
+2024-06-11 12:18:33,486 - INFO - Conectando ao banco de dados...
+2024-06-11 12:18:33,620 - INFO - Conexão estabelecida.
+2024-06-11 12:18:33,621 - INFO - Cursor criado.
+2024-06-11 12:18:33,621 - INFO - Executando a query SQL...
+2024-06-11 12:18:36,596 - INFO - Query executada com sucesso.
+2024-06-11 12:18:36,596 - INFO - Dados encontrados, exportando para Excel...
+2024-06-11 12:18:36,890 - INFO - Relatório exportado para relatorios/237OB_ +str(11-06-2024 12:18).xlsx
+2024-06-11 12:19:21,554 - INFO - data inicial é :2024-05-01, e data final = 2024-06-11
+2024-06-11 12:19:21,671 - INFO - Conectando ao banco de dados...
+2024-06-11 12:19:21,806 - INFO - Conexão estabelecida.
+2024-06-11 12:19:21,807 - INFO - Cursor criado.
+2024-06-11 12:19:21,807 - INFO - Executando a query SQL...
+2024-06-11 12:19:25,357 - INFO - Query executada com sucesso.
+2024-06-11 12:19:25,357 - INFO - Nenhum dado encontrado para o período especificado.
+2024-06-11 12:19:36,455 - INFO - data inicial é :2024-04-01, e data final = 2024-06-11
+2024-06-11 12:19:36,571 - INFO - Conectando ao banco de dados...
+2024-06-11 12:19:36,592 - INFO - Conexão estabelecida.
+2024-06-11 12:19:36,592 - INFO - Cursor criado.
+2024-06-11 12:19:36,592 - INFO - Executando a query SQL...
+2024-06-11 12:19:39,408 - INFO - Query executada com sucesso.
+2024-06-11 12:19:39,408 - INFO - Dados encontrados, exportando para Excel...
+2024-06-11 12:19:39,690 - INFO - Relatório exportado para relatorios/237OB_(11-06-2024 12:19).xlsx
+2024-06-11 12:20:47,916 - INFO - data inicial é :2024-04-01, e data final = 2024-06-11
+2024-06-11 12:20:48,032 - INFO - Conectando ao banco de dados...
+2024-06-11 12:20:48,052 - INFO - Conexão estabelecida.
+2024-06-11 12:20:48,053 - INFO - Cursor criado.
+2024-06-11 12:20:48,053 - INFO - Executando a query SQL...
+2024-06-11 12:20:51,001 - INFO - Query executada com sucesso.
+2024-06-11 12:20:51,004 - INFO - Dados encontrados, exportando para Excel...
+2024-06-11 12:20:51,279 - INFO - Relatório exportado para relatorios/237OB_(11-06-2024 12:20).xlsx
+2024-06-11 12:21:28,044 - INFO - data inicial é :2024-04-01, e data final = 2024-06-11
+2024-06-11 12:21:28,164 - INFO - Conectando ao banco de dados...
+2024-06-11 12:21:28,185 - INFO - Conexão estabelecida.
+2024-06-11 12:21:28,186 - INFO - Cursor criado.
+2024-06-11 12:21:28,186 - INFO - Executando a query SQL...
+2024-06-11 12:21:31,484 - INFO - Query executada com sucesso.
+2024-06-11 12:21:31,485 - INFO - Dados encontrados, exportando para Excel...
+2024-06-11 12:21:31,755 - INFO - Relatório exportado para relatorios/237OB_(11-06-2024 12:21).xlsx
+2024-06-11 12:22:08,703 - INFO - data inicial é :2024-04-01, e data final = 2024-06-11
+2024-06-11 12:22:08,818 - INFO - Conectando ao banco de dados...
+2024-06-11 12:22:08,839 - INFO - Conexão estabelecida.
+2024-06-11 12:22:08,839 - INFO - Cursor criado.
+2024-06-11 12:22:08,840 - INFO - Executando a query SQL...
+2024-06-11 12:22:11,842 - INFO - Query executada com sucesso.
+2024-06-11 12:22:11,842 - INFO - Dados encontrados, exportando para Excel...
+2024-06-11 12:22:12,165 - INFO - Relatório exportado para relatorios/237OB_11-06-2024 12:22.xlsx
+2024-06-11 12:23:19,359 - INFO - data inicial é :2024-04-01, e data final = 2024-06-11
+2024-06-11 12:23:19,476 - INFO - Conectando ao banco de dados...
+2024-06-11 12:23:19,497 - INFO - Conexão estabelecida.
+2024-06-11 12:23:19,498 - INFO - Cursor criado.
+2024-06-11 12:23:19,498 - INFO - Executando a query SQL...
+2024-06-11 12:23:22,451 - INFO - Query executada com sucesso.
+2024-06-11 12:23:22,451 - INFO - Dados encontrados, exportando para Excel...
+2024-06-11 12:23:22,739 - INFO - Relatório exportado para relatorios/237OB_11-06-2024 12:23.xlsx
+2024-06-11 12:25:02,235 - INFO - data inicial é :2024-04-01, e data final = 2024-06-11
+2024-06-11 12:25:02,350 - INFO - Conectando ao banco de dados...
+2024-06-11 12:25:02,371 - INFO - Conexão estabelecida.
+2024-06-11 12:25:02,372 - INFO - Cursor criado.
+2024-06-11 12:25:02,372 - INFO - Executando a query SQL...
+2024-06-11 12:25:06,278 - INFO - Query executada com sucesso.
+2024-06-11 12:25:06,278 - INFO - Dados encontrados, exportando para Excel...
+2024-06-11 12:25:06,568 - INFO - Relatório exportado para relatorios/237OB11-06-2024 12:25.xlsx
+2024-06-11 12:26:39,979 - INFO - data inicial é :2024-04-01, e data final = 2024-06-11
+2024-06-11 12:26:40,093 - INFO - Conectando ao banco de dados...
+2024-06-11 12:26:40,114 - INFO - Conexão estabelecida.
+2024-06-11 12:26:40,114 - INFO - Cursor criado.
+2024-06-11 12:26:40,114 - INFO - Executando a query SQL...
+2024-06-11 12:26:42,941 - INFO - Query executada com sucesso.
+2024-06-11 12:26:42,941 - INFO - Dados encontrados, exportando para Excel...
+2024-06-11 12:26:43,242 - INFO - Relatório exportado para relatorios/237OB11-06-2024 12-26.xlsx
+2024-06-11 13:23:29,892 - INFO - data inicial é :2024-04-01, e data final = 2024-06-11
+2024-06-11 13:23:29,894 - INFO - Conectando ao banco de dados...
+2024-06-11 13:23:30,030 - INFO - Conexão estabelecida.
+2024-06-11 13:23:30,030 - INFO - Cursor criado.
+2024-06-11 13:23:30,030 - INFO - Executando a query SQL...
+2024-06-11 13:23:34,401 - INFO - Query executada com sucesso.
+2024-06-11 13:23:34,402 - INFO - Dados encontrados, exportando para Excel...
+2024-06-11 13:23:35,756 - INFO - Relatório exportado para relatorios/237OB11-06-2024 13-23.xlsx
+2024-06-11 14:14:24,262 - INFO - data inicial é :2024-04-01, e data final = 2024-06-11
+2024-06-11 14:14:24,375 - INFO - Conectando ao banco de dados...
+2024-06-11 14:14:24,397 - INFO - Conexão estabelecida.
+2024-06-11 14:14:24,398 - INFO - Cursor criado.
+2024-06-11 14:14:24,398 - INFO - Executando a query SQL...
+2024-06-11 14:14:27,511 - INFO - Query executada com sucesso.
+2024-06-11 14:14:27,511 - INFO - Dados encontrados, exportando para Excel...
+2024-06-11 14:15:57,746 - INFO - data inicial é :2024-04-01, e data final = 2024-06-11
+2024-06-11 14:15:57,862 - INFO - Conectando ao banco de dados...
+2024-06-11 14:15:57,883 - INFO - Conexão estabelecida.
+2024-06-11 14:15:57,884 - INFO - Cursor criado.
+2024-06-11 14:15:57,884 - INFO - Executando a query SQL...
+2024-06-11 14:16:01,176 - INFO - Query executada com sucesso.
+2024-06-11 14:16:01,177 - INFO - Dados encontrados, exportando para Excel...
+2024-06-11 14:16:01,561 - INFO - Relatório exportado para C:\Users\daniel\Desktop\relatorios237OB11-06-2024 14-15.xlsx
+2024-06-11 14:19:58,219 - INFO - data inicial é :2024-04-01, e data final = 2024-06-11
+2024-06-11 14:19:58,332 - INFO - Conectando ao banco de dados...
+2024-06-11 14:19:58,354 - INFO - Conexão estabelecida.
+2024-06-11 14:19:58,355 - INFO - Cursor criado.
+2024-06-11 14:19:58,355 - INFO - Executando a query SQL...
+2024-06-11 14:20:01,749 - INFO - Query executada com sucesso.
+2024-06-11 14:20:01,750 - INFO - Dados encontrados, exportando para Excel...
+2024-06-11 14:20:02,034 - INFO - Relatório exportado para C:\Users\daniel\Desktop\relatorios\Relatorio_11-06-2024 14:19.xlsx
+2024-06-11 14:22:50,315 - INFO - data inicial é :2024-04-01, e data final = 2024-06-11
+2024-06-11 14:22:50,431 - INFO - Conectando ao banco de dados...
+2024-06-11 14:22:50,458 - INFO - Conexão estabelecida.
+2024-06-11 14:22:50,459 - INFO - Cursor criado.
+2024-06-11 14:22:50,460 - INFO - Executando a query SQL...
+2024-06-11 14:22:53,996 - INFO - Query executada com sucesso.
+2024-06-11 14:22:53,997 - INFO - Dados encontrados, exportando para Excel...
+2024-06-11 14:22:54,287 - INFO - Relatório exportado para C:\Users\daniel\Desktop\relatorios\Relatorio_11-06-2024 14-22.xlsx
+2024-06-11 14:23:56,627 - INFO - data inicial é :2024-04-01, e data final = 2024-06-11
+2024-06-11 14:23:56,750 - INFO - Conectando ao banco de dados...
+2024-06-11 14:23:56,772 - INFO - Conexão estabelecida.
+2024-06-11 14:23:56,772 - INFO - Cursor criado.
+2024-06-11 14:23:56,773 - INFO - Executando a query SQL...
+2024-06-11 14:24:00,180 - INFO - Query executada com sucesso.
+2024-06-11 14:24:00,180 - INFO - Dados encontrados, exportando para Excel...
+2024-06-11 14:24:00,463 - INFO - Relatório exportado para C:\Users\daniel\Desktop\relatorios\Relatorio_11-06-2024 14-23.xlsx
+2024-06-11 14:24:16,777 - INFO - data inicial é :2024-04-01, e data final = 2024-06-11
+2024-06-11 14:24:16,890 - INFO - Conectando ao banco de dados...
+2024-06-11 14:24:16,911 - INFO - Conexão estabelecida.
+2024-06-11 14:24:16,911 - INFO - Cursor criado.
+2024-06-11 14:24:16,911 - INFO - Executando a query SQL...
+2024-06-11 14:24:20,007 - INFO - Query executada com sucesso.
+2024-06-11 14:24:20,007 - INFO - Dados encontrados, exportando para Excel...
+2024-06-11 14:24:20,270 - INFO - Relatório exportado para C:\Users\daniel\Desktop\relatorios\Relatorio_11-06-2024 14-24.xlsx
+2024-06-11 14:24:34,392 - INFO - data inicial é :2024-04-01, e data final = 2024-06-11
+2024-06-11 14:24:34,514 - INFO - Conectando ao banco de dados...
+2024-06-11 14:24:34,534 - INFO - Conexão estabelecida.
+2024-06-11 14:24:34,535 - INFO - Cursor criado.
+2024-06-11 14:24:34,535 - INFO - Executando a query SQL...
+2024-06-11 14:24:38,396 - INFO - Query executada com sucesso.
+2024-06-11 14:24:38,397 - INFO - Dados encontrados, exportando para Excel...
+2024-06-11 14:24:38,669 - INFO - Relatório exportado para C:\Users\daniel\Desktop\relatorios\Relatorio_11-06-2024 14-24.xlsx
+2024-06-11 16:33:00,240 - INFO - data inicial é :2024-04-01, e data final = 2024-06-11
+2024-06-11 16:33:00,353 - INFO - Conectando ao banco de dados...
+2024-06-11 16:33:00,373 - INFO - Conexão estabelecida.
+2024-06-11 16:33:00,373 - INFO - Cursor criado.
+2024-06-11 16:33:00,373 - INFO - Executando a query SQL...
+2024-06-11 16:33:04,426 - INFO - Query executada com sucesso.
+2024-06-11 16:33:04,426 - INFO - Dados encontrados, exportando para Excel...
+2024-06-11 16:33:05,005 - INFO - Relatório exportado para C:\Users\daniel\Desktop\relatorios\Relatorio_11-06-2024 16-33.xlsx
+2024-06-11 16:35:06,081 - INFO - data inicial é :2024-04-01, e data final = 2024-06-11
+2024-06-11 16:35:06,082 - INFO - Conectando ao banco de dados...
+2024-06-11 16:35:06,225 - INFO - Conexão estabelecida.
+2024-06-11 16:35:06,226 - INFO - Cursor criado.
+2024-06-11 16:35:06,226 - INFO - Executando a query SQL...
+2024-06-11 16:35:10,157 - INFO - Query executada com sucesso.
+2024-06-11 16:35:10,158 - INFO - Nenhum dado encontrado para o período especificado.
+2024-06-11 16:35:40,533 - INFO - data inicial é :2024-04-01, e data final = 2024-06-11
+2024-06-11 16:35:40,533 - INFO - Conectando ao banco de dados...
+2024-06-11 16:35:40,558 - INFO - Conexão estabelecida.
+2024-06-11 16:35:40,559 - INFO - Cursor criado.
+2024-06-11 16:35:40,560 - INFO - Executando a query SQL...
+2024-06-11 16:35:44,105 - INFO - Query executada com sucesso.
+2024-06-11 16:35:44,105 - INFO - Nenhum dado encontrado para o período especificado.
+2024-06-11 16:36:00,817 - INFO - data inicial é :2023-02-01, e data final = 2024-06-11
+2024-06-11 16:36:00,930 - INFO - Conectando ao banco de dados...
+2024-06-11 16:36:00,951 - INFO - Conexão estabelecida.
+2024-06-11 16:36:00,951 - INFO - Cursor criado.
+2024-06-11 16:36:00,952 - INFO - Executando a query SQL...
+2024-06-11 16:36:05,195 - INFO - Query executada com sucesso.
+2024-06-11 16:36:05,195 - INFO - Nenhum dado encontrado para o período especificado.
+2024-06-11 16:36:37,346 - INFO - data inicial é :2023-02-01, e data final = 2024-06-11
+2024-06-11 16:36:37,346 - INFO - Conectando ao banco de dados...
+2024-06-11 16:36:37,492 - INFO - Conexão estabelecida.
+2024-06-11 16:36:37,493 - INFO - Cursor criado.
+2024-06-11 16:36:37,493 - INFO - Executando a query SQL...
+2024-06-11 16:37:00,041 - INFO - Query executada com sucesso.
+2024-06-11 16:37:00,041 - INFO - Dados encontrados, exportando para Excel...
+2024-06-11 16:37:03,767 - INFO - Relatório exportado para C:\Users\daniel\Desktop\relatorios\Relatorio_11-06-2024 16-36.xlsx
+2024-06-11 16:41:48,823 - INFO - data inicial é :2024-04-01, e data final = 2024-06-11
+2024-06-11 16:41:48,824 - INFO - Conectando ao banco de dados...
+2024-06-11 16:41:48,964 - INFO - Conexão estabelecida.
+2024-06-11 16:41:48,964 - INFO - Cursor criado.
+2024-06-11 16:41:48,965 - INFO - Executando a query SQL...
+2024-06-11 16:41:52,457 - INFO - Query executada com sucesso.
+2024-06-11 16:41:52,458 - INFO - Dados encontrados, exportando para Excel...
+2024-06-11 16:41:52,819 - INFO - Relatório exportado para C:\Users\daniel\Desktop\relatorios\Relatorio_11-06-2024 16-41.xlsx
+2024-06-11 16:44:03,243 - INFO - data inicial é :2024-04-01, e data final = 2024-06-11
+2024-06-11 16:44:03,382 - INFO - Conectando ao banco de dados...
+2024-06-11 16:44:03,403 - INFO - Conexão estabelecida.
+2024-06-11 16:44:03,404 - INFO - Cursor criado.
+2024-06-11 16:44:03,405 - INFO - Executando a query SQL...
+2024-06-11 16:44:06,674 - INFO - Query executada com sucesso.
+2024-06-11 16:44:06,674 - INFO - Dados encontrados, exportando para Excel...
+2024-06-11 16:45:58,873 - INFO - data inicial é :2024-04-01, e data final = 2024-06-11
+2024-06-11 16:45:58,988 - INFO - Conectando ao banco de dados...
+2024-06-11 16:45:59,010 - INFO - Conexão estabelecida.
+2024-06-11 16:45:59,014 - INFO - Cursor criado.
+2024-06-11 16:45:59,014 - INFO - Executando a query SQL...
+2024-06-11 16:46:01,972 - INFO - Query executada com sucesso.
+2024-06-11 16:46:01,975 - INFO - Dados encontrados, exportando para Excel...
+2024-06-11 16:46:02,673 - INFO - Relatório exportado para C:\Users\daniel\Desktop\relatorios\Relatorio_11-06-2024 16-45.xlsx
