@@ -5,26 +5,15 @@ from databases.database import connection_string
 import pandas as pd
 
 connection = pyodbc.connect(connection_string)
-def get_column_names(table_name):
+def get_column_names():
+    connection = pyodbc.connect(connection_string)
+    listaempresas = []
     query = f"""
-    SELECT COLUMN_NAME
-    FROM INFORMATION_SCHEMA.COLUMNS
-    WHERE TABLE_NAME = '{table_name}';
+   select descr_obr,cod_obr from obras where Empresa_obr=245;
     """
-    return pd.read_sql(query, connection)
-
-# Obter os nomes das colunas das tabelas de interesse
-tabelas = ['ItensCot_Temp','ItensCotServ_Temp', 'AprovacaoPedMat', 'fn_ListEmpObr','OrdemCompra','ItensOrdemCompra','Aprovacao']
-colunas = {}
-
-for tabela in tabelas:
-    colunas[tabela] = get_column_names(tabela)
-
-# Mostrar os nomes das colunas
-for tabela, colunas_tabela in colunas.items():
-    print(f"Tabela: {tabela}")
-    print(colunas_tabela)
-    print("\n")
-
-# Fechar a conexão
+    query = pd.read_sql(query, connection)
+    for i in query.values:
+        listaempresas.append({'desc': i[0], 'cod': i[1]})
+    print('Essa é a lista empresas dicionario', listaempresas)
+    return listaempresas
 connection.close()

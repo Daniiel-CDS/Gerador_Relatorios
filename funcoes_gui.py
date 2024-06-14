@@ -9,16 +9,16 @@ def empresa_btn(empobra):
     empobras = empobra.get()
     return empobras
 
-def get_column_names():
+def get_column_names(empresa=321):
     connection = pyodbc.connect(connection_string)
-    listaempresas = []
+    lista_empresas = []
     query = f"""
-   select descr_obr,cod_obr from obras where Empresa_obr=245;
+   select descr_obr,cod_obr from obras where Empresa_obr={empresa};
     """
     query = pd.read_sql(query, connection)
     for i in query.values:
-        listaempresas.append({'desc': i[0], 'cod': i[1]})
-        print('Essa é a lista empresas dicionario', listaempresas)
-    return listaempresas
+        lista_empresas.append({'desc_obr':i[0], 'cod_obr':i[1]})
     
+    return lista_empresas
+
 

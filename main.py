@@ -7,7 +7,7 @@ import pandas as pd
 import datetime 
 import os
 
-def execute_main(data1, data2, valor,valor_nome):
+def execute_main(data1, data2, valor, valor_nome):
     data_e_hora_atuais = datetime.datetime.now()
     data = data_e_hora_atuais.strftime(fr"%d-%m-%Y %H-%M")
     data = str(data)
@@ -20,6 +20,7 @@ def execute_main(data1, data2, valor,valor_nome):
     data_termino = data2
     print(data_inicio, "começa\n", data_termino,'Fim' )
     print(f'data inicial é :{data_inicio}, e data final = {data_termino}')
+    print('O valor é ', valor)
     logging.info(f'data inicial é :{data_inicio}, e data final = {data_termino}')
     prazocompra = 0
     origem = '0'
@@ -46,13 +47,15 @@ def execute_main(data1, data2, valor,valor_nome):
     try:
         df = pd.read_sql(rel_select(data_inicio=data_inicio, data_termino=data_termino, empresaobra=empresaobra, pedidoatendimento=pedidoatendimento, origem=origem, prazocompra=prazocompra, simulacao=simulacao), connection)
         print("Query executada com sucesso.")
+        print(datetime.datetime.now().strftime('%H:%M:%S'))
         logging.info("Query executada com sucesso.")
     except Exception as e:
-        print(f"Erro ao executar a query: {e}")
+        # print(f"Erro ao executar a query: {e}")
         logging.info(f"Erro ao executar a query: {e}")
 
     # Verificar se o DataFrame contém dados
     if not df.empty:
+        print(datetime.datetime.now().strftime('%H:%M:%S'))
         print("Dados encontrados, exportando para Excel...")
         logging.info("Dados encontrados, exportando para Excel...")
         # Exportar para Excel
